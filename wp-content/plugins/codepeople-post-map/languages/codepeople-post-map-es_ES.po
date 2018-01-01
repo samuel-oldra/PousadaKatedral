@@ -1,0 +1,415 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: codepeople-post-map\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-23 23:38-0500\n"
+"PO-Revision-Date: 2012-09-24 06:33-0500\n"
+"Last-Translator: Erick Olivera <olivera.erick@gmail.com>\n"
+"Language-Team: CodePeople <onlinesupport@hotdreamweaver.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: d:\\02_www\\www.wp.com\\wp-content\\plugins\\codepeople-post-map\\\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: d:\\02_www\\www.wp.com\\wp-content\\plugins\\codepeople-post-map\n"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/codepeople-post-map.php:50
+msgid "Associate an address to the post for Google Maps association"
+msgstr "Asociar una dirección al artículo para asociarlo a Google Maps"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:24
+msgid "ARABIC"
+msgstr "ARABIC"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:25
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:37
+msgid "BASQUE"
+msgstr "BASQUE"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:26
+msgid "BULGARIAN"
+msgstr "BULGARIAN"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:27
+msgid "BENGALI"
+msgstr "BENGALI"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:28
+msgid "CATALAN"
+msgstr "CATALAN"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:29
+msgid "CZECH"
+msgstr "CZECH"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:30
+msgid "DANISH"
+msgstr "DANISH"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:31
+msgid "GERMAN"
+msgstr "GERMAN"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:32
+msgid "GREEK"
+msgstr "GREEK"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:33
+msgid "ENGLISH"
+msgstr "ENGLISH"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:34
+msgid "ENGLISH (AUSTRALIAN)"
+msgstr "ENGLISH (AUSTRALIAN)"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:35
+msgid "ENGLISH (GREAT BRITAIN)"
+msgstr "ENGLISH (GREAT BRITAIN)"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:36
+msgid "SPANISH"
+msgstr "SPANISH"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:38
+msgid "FARSI"
+msgstr "FARSI"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:39
+msgid "FINNISH"
+msgstr "FINNISH"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:40
+msgid "FILIPINO"
+msgstr "FILIPINO"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:41
+msgid "FRENCH"
+msgstr "FRENCH"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:42
+msgid "GALICIAN"
+msgstr "GALICIAN"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:43
+msgid "GUJARATI"
+msgstr "GUJARATI"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:44
+msgid "HINDI"
+msgstr "HINDI"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:45
+msgid "CROATIAN"
+msgstr "CROATIAN"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:46
+msgid "HUNGARIAN"
+msgstr "HUNGARIAN"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:47
+msgid "INDONESIAN"
+msgstr "INDONESIAN"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:48
+msgid "ITALIAN"
+msgstr "ITALIAN"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:49
+msgid "HEBREW"
+msgstr "HEBREW"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:50
+msgid "JAPANESE"
+msgstr "JAPANESE"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:51
+msgid "KANNADA"
+msgstr "KANNADA"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:52
+msgid "KOREAN"
+msgstr "KOREAN"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:53
+msgid "LITHUANIAN"
+msgstr "LITHUANIAN"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:54
+msgid "LATVIAN"
+msgstr "LATVIAN"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:55
+msgid "MALAYALAM"
+msgstr "MALAYALAM"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:56
+msgid "MARATHI"
+msgstr "MARATHI"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:57
+msgid "DUTCH"
+msgstr "DUTCH"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:58
+msgid "NORWEGIAN"
+msgstr "NORWEGIAN"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:59
+msgid "ORIYA"
+msgstr "ORIYA"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:60
+msgid "POLISH"
+msgstr "POLISH"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:61
+msgid "PORTUGUESE"
+msgstr "PORTUGUESE"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:62
+msgid "PORTUGUESE (BRAZIL)"
+msgstr "PORTUGUESE (BRAZIL)"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:63
+msgid "PORTUGUESE (PORTUGAL)"
+msgstr "PORTUGUESE (PORTUGAL)"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:64
+msgid "ROMANIAN"
+msgstr "ROMANIAN"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:65
+msgid "RUSSIAN"
+msgstr "RUSSIAN"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:66
+msgid "SLOVAK"
+msgstr "SLOVAK"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:67
+msgid "SLOVENIAN"
+msgstr "SLOVENIAN"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:68
+msgid "SERBIAN"
+msgstr "SERBIAN"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:69
+msgid "SWEDISH"
+msgstr "SWEDISH"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:70
+msgid "TAGALOG"
+msgstr "TAGALOG"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:71
+msgid "TAMIL"
+msgstr "TAMIL"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:72
+msgid "TELUGU"
+msgstr "TELUGU"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:73
+msgid "THAI"
+msgstr "THAI"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:74
+msgid "TURKISH"
+msgstr "TURKISH"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:75
+msgid "UKRAINIAN"
+msgstr "UKRAINIAN"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:76
+msgid "VIETNAMESE"
+msgstr "VIETNAMESE"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:77
+msgid "CHINESE (SIMPLIFIED)"
+msgstr "CHINESE (SIMPLIFIED)"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:78
+msgid "CHINESE (TRADITIONAL)"
+msgstr "CHINESE (TRADITIONAL)"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:233
+msgid "Select the marker by clicking on the images"
+msgstr "Seleccione el marcados presionando sobre la imagen"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:244
+msgid "Powered by"
+msgstr "Powered by"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:257
+msgid "Maps Configuration"
+msgstr "Configuración de los Mapas"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:261
+msgid "Map zoom:"
+msgstr "Enfoque del mapa:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:267
+msgid "Map width:"
+msgstr "Ancho del mapa:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:273
+msgid "Map height:"
+msgstr "Alto del mapa:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:279
+msgid "Map margin:"
+msgstr "Margen del mapa:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:285
+msgid "Map align:"
+msgstr "Alineado del mapa:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:288
+msgid "left"
+msgstr "isquerda"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:289
+msgid "center"
+msgstr "central"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:290
+msgid "right"
+msgstr "derecha"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:295
+msgid "Map type:"
+msgstr "Tipo de mapa:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:298
+msgid "ROADMAP - Displays a normal street map"
+msgstr "ROADMAP - Muestra el mapa de las calles"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:299
+msgid "SATELLITE - Displays satellite images"
+msgstr "SATELLITE - Muestra imágenes del satélite"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:300
+msgid "TERRAIN - Displays maps with physical features such as terrain and vegetation"
+msgstr "TERRAIN - Muestra mapas con características físcas tales como terreno y la vegetación"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:301
+msgid "HYBRID - Displays a transparent layer of major streets on satellite images"
+msgstr "HYBRID - Muestra una capa transparente de las principales calles sobre imágenes del satéllite"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:306
+msgid "Map language:"
+msgstr "Lenguaje del mapa:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:310
+msgid "Display map in post/page:"
+msgstr "Mostrar el mapa en el artículo o págin"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:313
+msgid "as icon"
+msgstr "mostrar como un icono"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:314
+msgid "as full map"
+msgstr "como un mapa desplegado"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:319
+msgid "Options:"
+msgstr "Opciones:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:322
+msgid "Enable mouse wheel zoom"
+msgstr "Habilitar zoom con la rueda del mouse"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:324
+msgid "Enable zoom/pan controls"
+msgstr "Habilitar controls zoom/pan"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:326
+msgid "Enable map type controls (Map, Satellite, or Hybrid)"
+msgstr "Habilitar control para el tipo de mapa(Mapa de carreteras, satelital o híbrido)"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:330
+msgid "Enter the number of points on the post/page map:"
+msgstr "Introduzca el número de puntos a mostrar en un mapa dentro de un artículo:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:366
+msgid "Location name:"
+msgstr "Nombre de la localización:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:372
+msgid "Location description:"
+msgstr "Descripción de la localización:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:384
+msgid "Select the thumbnail by clicking on the images"
+msgstr "Seleccione la miniatura presionando sobre la imagen"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:399
+msgid "Thumbnail: "
+msgstr "Miniatura:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:399
+msgid "If you want to attach an image to the point you need to upload it first to the post gallery"
+msgstr "Si desea adjuntar una imagen al punto, usted debe subirla primeramente a la galería del artículo"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:408
+msgid "Upload Images"
+msgstr "Subir imágenes"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:413
+msgid "Address:"
+msgstr "Dirección:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:419
+msgid "Latitude:"
+msgstr "Latitud:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:425
+msgid "Longitude:"
+msgstr "Longitud:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:431
+msgid "Verify"
+msgstr "Verificar"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:433
+msgid "Verify this latitude and longitude using Geocoding. This could overwrite the point address."
+msgstr "Verificar latitud y longitud usando Geocoding. Esta acción puede sobreescribir la dirección del punto."
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:443
+msgid "If you want to display the map in page / post:"
+msgstr "Si desea mostrar el mapa en el artículo:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:446
+msgid "insert the map tag"
+msgstr "Insertar una etiqueta de mapa:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:454
+msgid "Show / Hide Map's Options &raquo;"
+msgstr "Mostrar / Ocultar las opciones del mapa &raquo;"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:517
+msgid "Settings Updated"
+msgstr "Configuración Actualizada"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:530
+msgid "Use points information in search results:"
+msgstr "Usar la información del punto en los resultados de las búsquedas:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:536
+msgid "Highlight post when mouse move over related point on map:"
+msgstr "Remarcar artículo cuando el mouse se mueva sobre su marca en el map:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:542
+msgid "Highlight class:"
+msgstr "Clase para remarcar:"
+
+#: d:\02_www\www.wp.com\wp-content\plugins\codepeople-post-map/include/functions.php:548
+msgid "Update Settings"
+msgstr "Actualizar configuración"
+

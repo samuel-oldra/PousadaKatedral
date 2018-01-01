@@ -1,0 +1,49 @@
+.hugeitmicro,
+.hugeitmicro .hugeitmicro-item {
+  -webkit-transition-duration: 0.8s;
+     -moz-transition-duration: 0.8s;
+      -ms-transition-duration: 0.8s;
+       -o-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+}
+
+.hugeitmicro {
+  -webkit-transition-property: height, width;
+     -moz-transition-property: height, width;
+      -ms-transition-property: height, width;
+       -o-transition-property: height, width;
+          transition-property: height, width;
+}
+
+.hugeitmicro .hugeitmicro-item {
+  -webkit-transition-property: -webkit-transform, opacity;
+     -moz-transition-property:    -moz-transform, opacity;
+      -ms-transition-property:     -ms-transform, opacity;
+       -o-transition-property:      -o-transform, opacity;
+          transition-property:         transform, opacity;
+}
+
+#huge_it_portfolio_container {
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+#huge_it_portfolio_container .open-close {
+	width:20px;
+	height:20px;
+	display:block;
+	background:#000;
+}
+
+
+#huge_it_portfolio_options h3 {
+  margin-bottom: 0.2em;
+  font-size: 15px;
+}
+
+#huge_it_portfolio_options h4 { 
+  font-weight: bold;
+}
+
+
+

@@ -1,0 +1,674 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Photo Gallery\n"
+"POT-Creation-Date: 2014-05-31 16:09+1000\n"
+"PO-Revision-Date: 2014-08-15 12:04+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:90
+msgid "Gallery Management Menu"
+msgstr "Meni za upravljanje galerijom"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:92
+msgid "Creating or Editing a Gallery"
+msgstr "Kreiranje ili uređivanje galerije"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:96
+msgid "To create a new gallery click the \"Create New Gallery\" button below."
+msgstr ""
+"Da biste kreirali novu galeriju, kliknite na donji taster \"Kreiraj novu "
+"galeriju\" "
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:97
+msgid ""
+"To edit an existing gallery please click the \"Edit\" link for the "
+"applicable gallery in the \"Existing Galleries\" table below."
+msgstr ""
+"Da biste uredili postojeću galeriju, kliknite na link \"Uredi\" za datu "
+"galeriju u tabeli \"Postojeće galerije\""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:102
+msgid "Create a Gallery"
+msgstr "Kreiraj galeriju"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:107
+msgid "Click this button if you wish to create a new gallery and upload photos"
+msgstr ""
+"Kliknite na ovaj taster ako želite da kreirate novu galeriju i da otpremite "
+"slike"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:113
+msgid "Existing Galleries"
+msgstr "Postojeće galerije"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:165
+msgid "click here"
+msgstr "kliknite ovde"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:166
+#, php-format
+msgid "To preview your gallery page on the front end %s"
+msgstr "Da biste pregledali stranicu svoje galerije na front end-u  %s"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:173
+msgid "The Gallery was saved successfully."
+msgstr "Galerija je uspešno sačuvana"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:185
+msgid ""
+"You have successfully deleted the selected gallery image(s) permanently!"
+msgstr "Uspešno ste trajno obrisali odabrane slike iz galerije "
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:202
+msgid "Please enter a gallery name"
+msgstr "Unesite naziv galerije"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:223
+msgid ""
+"You entered a non numeric value for the Watermark Photo Width field. It has "
+"been set to the default value."
+msgstr ""
+"Niste uneli numeričku vrednost za polje Širina vodenog žiga fotografije. "
+"Podešeno je na podrazumevanu vrednost."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:230
+msgid ""
+"You entered a non numeric value for the Watermark Font Size field. It has "
+"been set to the default value."
+msgstr ""
+"Niste uneli numeričku vrednost za polje Veličina vodenog žiga fotografije. "
+"Podešeno je na podrazumevanu vrednost."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:239
+msgid ""
+"You entered a non numeric value for the Watermark Opacity field. It has been "
+"set to the default value."
+msgstr ""
+"Niste uneli numeričku vrednost za polje Prozirnost vodenog žiga. Podešeno je "
+"na podrazumevanu vrednost."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:244
+msgid ""
+"The Watermark Opacity value must be between and including 0 and 100. It has "
+"been set to the default value."
+msgstr ""
+"Vrednost neprozirnosti vodenog žiga mora biti između 0 i 100, uključujući i "
+"te brojeve. Podešen je na podrazumevanu vrednost. "
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:307
+msgid "Gallery DB insert or update failed!"
+msgstr "Dodavanje ili ažuriranje za Gallery DB nije uspelo!"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:348
+msgid "Create/Edit Gallery"
+msgstr "Kreiraj/Uredi galeriju"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:352
+msgid "Gallery Settings"
+msgstr "Podešavanja galerije"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:358
+msgid "Gallery Name"
+msgstr "Naziv galerije"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:360
+msgid "This is the name of your gallery"
+msgstr "Ovo je naziv vaše galerije"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:364
+msgid "Gallery Thumbnail Template"
+msgstr "Obrazac sličica galerije"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:367
+msgid "Template 1"
+msgstr "Obrazac 1"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:368
+msgid "Template 2"
+msgstr "Obrazac 2"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:369
+msgid "Template 3 (Masonry)"
+msgstr "Obrazac 3 (Građenje)"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:371
+msgid "Choose the template style for displaying your gallery thumbnails"
+msgstr "Izaberite stil obrasca za prikazivanje sličica svoje galerije."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:372
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:405
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:417
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:440
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:455
+msgid "More Info"
+msgstr "Više informacija"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:375
+msgid ""
+"Template 1: Will display your gallery thumbnails in a grid with thumbnail "
+"size 150x150."
+msgstr ""
+"Obrazac 1: Prikazaće sličice vaše galerije u mreži, a dimenzije sličice biće "
+"150x150."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:376
+msgid ""
+"Template 2: Will display your gallery thumbnails using true landscape/"
+"portrait proportions."
+msgstr ""
+"Obrazac 2: Prikazaće sličice vaše galerije koristeći prave pejzaž/portret "
+"proporcije."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:383
+msgid "Sort Order Of Gallery Images"
+msgstr "Postavi redosled slika u galeriji "
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:386
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:121
+msgid "By ID Ascending"
+msgstr "Po rastućem ID-ju"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:387
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:122
+msgid "By ID Descending"
+msgstr "Po opadajućem ID-ju"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:388
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:123
+msgid "By Date Ascending"
+msgstr "Po rastućem datumu"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:389
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:124
+msgid "By Date Descending"
+msgstr "Po opadajućem datumu"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:391
+msgid ""
+"Choose the sort order of your gallery images when they are displayed on the "
+"front end of your site"
+msgstr ""
+"Odaberite redosled prikazivanja slika iz galerije na front end svog sajta."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:395
+msgid "Preview Photo via Page"
+msgstr "Pregledaj fotografije po stranici"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:397
+msgid ""
+"When enabled this setting will show previews of your photos on a separate "
+"page. When disabled your photo previews will be via a lightbox. (Activating "
+"this option is recommended)"
+msgstr ""
+"Kad je ova opcija aktivirana, prikazaće preglede vaših slika na odvojenim "
+"stranicama. Kad je deaktivirana, slike će se prikazivati putem lightbox-a. "
+"(Preporučuje se aktiviranje ove opcije.) "
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:402
+msgid "Watermark Text"
+msgstr "Tekst vodenog žiga"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:404
+msgid ""
+"The text which you enter here will appear as a watermark on all photos in "
+"this gallery when they are being previewed by your visitors."
+msgstr ""
+"Tekst koji ovde unesete prikazivaće se kao vodeni žig na svim slikama u ovoj "
+"galeriji kad ih posetioci pregledaju."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:408
+msgid ""
+"Leave this field blank if you wish to display the original photo to your "
+"customers when they are previewing this gallery."
+msgstr ""
+"Ostavite ovo polje prazno ako želite da klijentima prikazujete originalne "
+"fotografije kad pregledaju ovu galeriju."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:414
+msgid "Watermark Text Opacity"
+msgstr "Neprozirnost teksta vodenog žiga"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:416
+msgid ""
+"Enter a value between 0 and 100 where 0 is most transparent and 100 is least "
+"transparent."
+msgstr ""
+"Unesite vrednost između 0 i 100 gde je 0 najprozirnije, a 100 najmanje "
+"prozirno."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:420
+msgid ""
+"This field enables you to set the transparency of your watermark text.\n"
+"                                                        A value of 0 will "
+"make your watermark text fully transparent and a value of 100 will make it "
+"non-transparent."
+msgstr ""
+"Ovo polje omogućava vam da podesite providnost teksta vodenog žiga. Ako "
+"podesite vrednost na 0, znači da će vam tekst vodenog žiga biti potpuno "
+"providan, a vrednost 100 čini da tekst bude potpuno neprovidan."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:427
+msgid "Watermark Text Placement"
+msgstr "Položaj teksta vodenog žiga"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:430
+msgid "Centered"
+msgstr "Centriran"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:431
+msgid "Repeated Grid"
+msgstr "Mreža koja se ponavlja"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:433
+msgid "Choose the placement location of your watermark text"
+msgstr "Izaberite gde želite da smestite vodeni žig"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:437
+msgid "Watermarked Max Preview Dimension (px)"
+msgstr "Pregled maksimalnih dimenzija (px) sa vodenim žigom"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:439
+msgid "Enter a desired max dimension size for your watermarked preview"
+msgstr "Unesite najveću željenu veličinu za pregled slike sa vodenim žigom"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:443
+msgid ""
+"<p>This field enables you to set the maximum desired width or height of the "
+"watermarked version of your photos in this gallery depending on whether the "
+"photo is a portrait or landscape.</p>\n"
+"                                                        <p>For instance if "
+"your photo is a landscape style image then the value you enter here will "
+"represent the maximum desired width of the preview image.</p>\n"
+"                                                        <p>Conversely, if "
+"your photo is a portrait style image then the value you enter here will "
+"represent the maximum desired height of the preview image.</p>\n"
+"                                                        <p>The plugin will "
+"automatically scale the watermarked photo's other dimension to the "
+"appropriate value based on the value entered in this field.<p>"
+msgstr ""
+"<p>Ovo polje omogućava vam da podesite najveću željenu širinu ili visinu "
+"verzije fotografija sa žigom u datoj galeriji, bez obzira na to da li je "
+"fotografija orijentisana kao portret ili kao pejzaž.</p>\n"
+" <p>Na primer, ako je vaša fotografija u obliku pejzaža, onda će vrednost "
+"koju ovde unesete predstavljati najveću željenu širinu pregleda slike.</p>\n"
+" <p>Plugin će automatski prilagoditi drugu dimenziju fotografije na osnovu "
+"vrednosti unete u ovom polju.<p>"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:452
+msgid "Watermark Font Size (px)"
+msgstr "Veličina fonta (px) vodenog žiga"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:454
+msgid "Set the font size of the watermark text"
+msgstr "Podesite veličinu teksta vodenog žiga"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:458
+msgid ""
+"This field enables you to set the font size of the watermark text for all "
+"photos in this gallery. \n"
+"                                                        If left blank the "
+"plugin will default to 35px."
+msgstr ""
+"Ovo polje omogućava vam da podesite veličinu fonta teksta vodenog žiga za "
+"sve fotografije u datoj galeriji. Ako polje ostane prazno, plugin će ovu "
+"vrednost vratiti na podrazumevanu - 35px."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:466
+msgid "Use Pagination"
+msgstr "Koristite paginaciju"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:469
+msgid ""
+"Click this to enable pagination when displaying your gallery's photo "
+"thumbnails."
+msgstr ""
+"Kliknite ovde da biste aktivirali paginaciju za vreme prikazivanja sličica "
+"iz vaše galerije"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:473
+msgid "Thumbs Per Page"
+msgstr "Broj sličica po stranici"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:475
+msgid "Set the number of thumbnails to display per page"
+msgstr "Podesite broj sličica koje će se prikazivati na svakoj stranici"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:480
+msgid "Upload Images"
+msgstr "Otpremi slike"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:482
+msgid ""
+"To upload or select your images from the media library please click this "
+"button"
+msgstr ""
+"Da biste otpremili ili odabrali slike iz biblioteke medija, kliknite na ovaj "
+"taster."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:491
+msgid "Gallery Images"
+msgstr "Slike iz galerije"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:518
+msgid "Sell Your Digital and Physical Photos"
+msgstr "Prodajte svoje digitalne i fizičke fotografije"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:520
+msgid "WP Photo Seller Plugin"
+msgstr "WP Photo Seller Plugin"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:525
+msgid "Click Here"
+msgstr "Kliknite ovde"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:526
+msgid "WP Photo Seller"
+msgstr "WP Photo Seller"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:527
+#, php-format
+msgid ""
+"If you are looking for a flexible and professional solution to sell your "
+"photos from your WordPress site then you should check out the <strong>%s</"
+"strong> plugin."
+msgstr ""
+"Ako tražite fleksibilno i profesionalno rešenje za prodaju svojih "
+"fotografija sa WordPress sajta, pogledajte  <strong>%s</strong> plugin."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:529
+msgid "Some of the features and highlights of this plugin include:"
+msgstr "Neke od funkcija i dobrih strana ovog plugin-a su:"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:533
+msgid "Ability to sell both digital and physical photos."
+msgstr "Mogućnosti za prodaju digitalnih i fizičkih fotografija."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:534
+msgid ""
+"Sell digital photos with varying size and price options. Pugin will "
+"automatically create and deliver secure download link to your customers."
+msgstr ""
+"Prodajte digitalne fotografije u različitim veličinama po različitim cenama. "
+"Plugin će automatski kreirati i isporučiti vašim klijentima bezbedan link za "
+"preuzimanje."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:535
+msgid ""
+"Secure digital delivery of photos - the plugin creates and automatically "
+"sends encrypted links to your customers."
+msgstr ""
+"Bezbedna digitalna dostava fotografija - plugin kreira i automatski šalje "
+"kriptovane linkove vašim klijentima."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:536
+msgid ""
+"Flexible photo variation options - make as many versions/types of the same "
+"(physical or digital) photo and sell for different prices."
+msgstr ""
+"Fleksibilne varijacije opcija fotografija - napravite koliko god verzija/"
+"vrsta iste (fizičke ili digitalne) fotografije i prodajte ih po različitim "
+"cenama."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:537
+msgid ""
+"Inventory control of your photo stocks - set inventory levels for specified "
+"photos. Very useful when selling physical prints."
+msgstr ""
+"Kontrola inventara fotografija na zalihama - podesite nivoe inventara za "
+"određene fotografije. Ova opcija naročito je korisna ako šaljete fizičke, "
+"štampane fotografije. "
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:538
+msgid "Watermarking of photos when previewing."
+msgstr "Obeležavanje fotografija vodenim žigom u toku pregleda."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:539
+msgid ""
+"Zoom functionality to allow your customers to examine finer details of your "
+"photos without the need to display full resolution image."
+msgstr ""
+"Opcija uveličavanja koja klijentima omogućava da prouče finije detalje vaših "
+"fotografija bez prikazivanja pune rezolucije slike."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:541
+msgid "....and loads more!"
+msgstr "...i još mnogo toga!"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:542
+#, php-format
+msgid "%s to see more features and a demo."
+msgstr "%s da biste videli više funkcionalnosti i demo."
+
+#: simple-photo-gallery/admin/wppg-list-galleries.php:84
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:89
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:102
+msgid "Error - Please select some records using the checkboxes"
+msgstr "Greška - Odaberite neke zapise koristeći polja za štikliranje."
+
+#: simple-photo-gallery/admin/wppg-list-galleries.php:132
+msgid "The selected entries were deleted successfully!"
+msgstr "Odabrani unosi uspešno su obrisani!"
+
+#: simple-photo-gallery/admin/wppg-list-galleries.php:165
+msgid "The selected entry was deleted successfully!"
+msgstr "Odabrani unos uspešno je obrisan!"
+
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:27
+msgid "Delete Permanently"
+msgstr "Trajno obriši!"
+
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:125
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:133
+#, php-format
+msgid "The deletion of attachment with image ID %s failed!"
+msgstr "Brisanje priloga sa ID-jem slike %s nije uspelo!"
+
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:140
+msgid ""
+"The selected images were successfully deleted from the system permanently!"
+msgstr "Odabrane slike uspešno su trajno obrisane iz sistema! "
+
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:164
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:172
+#, php-format
+msgid "Removal of image ID %s from gallery failed!"
+msgstr "Uklanjanje ID-ja %s slike iz galerije nije uspelo!"
+
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:179
+msgid "The selected images were removed from the gallery successfully!"
+msgstr "Odabrane slike uspešno su uklonjene iz galerije!"
+
+#: simple-photo-gallery/admin/wppg-photo-admin-init.php:61
+msgid "Photo Gallery"
+msgstr "Photo Gallery"
+
+#: simple-photo-gallery/admin/wppg-photo-admin-init.php:62
+msgid "Settings"
+msgstr "Postavke"
+
+#: simple-photo-gallery/admin/wppg-photo-admin-init.php:63
+msgid "Gallery"
+msgstr "Galerija"
+
+#: simple-photo-gallery/admin/wppg-photo-admin-menu.php:43
+msgid "Settings successfully updated."
+msgstr "Podešavanja uspešno ažurirana"
+
+#: simple-photo-gallery/admin/wppg-photo-admin-menu.php:50
+msgid "The selected record(s) deleted successfully!"
+msgstr "Odabrani zapisi uspešno su obrisani!"
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:87
+msgid "Gallery general settings were successfully saved."
+msgstr "Opšte postavke galerije uspešno su sačuvane."
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:98
+msgid "Getting Started"
+msgstr "Početak"
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:102
+msgid "Using the <strong>Simple Photo Gallery</strong> Plugin is easy."
+msgstr ""
+"Korišćenje <strong>Simple Photo Gallery</strong>plugin-a je jednostavno!"
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:104
+#, php-format
+msgid "Just go to the %s and upload your photos and create your gallery."
+msgstr ""
+"Samo idite na %s , otpremite svoje fotografije i kreirajte svoju galeriju."
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:106
+msgid ""
+"After uploading your photos and saving your gallery the plugin will "
+"automatically create the required gallery pages on the front end of your "
+"site. It really is that simple!"
+msgstr ""
+"Nakon otpremanja fotografija i čuvanja vaše galerije, plugin će automatski "
+"kreirati potrebne stranice galerije na front end-u vašeg sajta. Stvarno je "
+"tako jednostavno!"
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:114
+msgid "General Gallery Settings"
+msgstr "Opšte postavke galerije"
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:118
+msgid "Sort Order Of Gallery Selection"
+msgstr "Redosled odabranih slika iz galerije "
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:125
+msgid "By Name Ascending"
+msgstr "Rastući redosled po nazivu"
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:126
+msgid "By Name Descending"
+msgstr "Opadajući redosled po nazivu"
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:128
+msgid ""
+"Choose the sort order of your gallery selection images when they are "
+"displayed on the gallery page of the front end of your site"
+msgstr ""
+"Odaberite redosled odabranih slika svoje galerije kad se prikazuju na "
+"stranici galerije na front end-u vašeg sajta. "
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:178
+msgid "No items found."
+msgstr "Nisu pronađeni artikli."
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:281
+msgid "Bulk Actions"
+msgstr "Grupne akcije"
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:291
+msgid "Apply"
+msgstr "Primeni"
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:365
+msgid "Show all dates"
+msgstr "Prikaži sve datume"
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:378
+#, php-format
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:394
+msgid "List View"
+msgstr "Vidi listu"
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:395
+msgid "Excerpt View"
+msgstr "Vidi deo"
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:421
+#, php-format
+msgid "%s pending"
+msgstr "%s na čekanju"
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:653
+msgid "Select All"
+msgstr "Odaberi sve"
+
+#: simple-photo-gallery/classes/wppg-photo-gallery-class.php:674
+#: simple-photo-gallery/classes/wppg-photo-gallery-class.php:686
+#: simple-photo-gallery/classes/wppg-photo-gallery-class.php:698
+msgid "Displaying Page"
+msgstr "Prikazivanje stranice"
+
+#: simple-photo-gallery/classes/wppg-photo-gallery-class.php:674
+#: simple-photo-gallery/classes/wppg-photo-gallery-class.php:686
+#: simple-photo-gallery/classes/wppg-photo-gallery-class.php:698
+msgid "of"
+msgstr "iz"
+
+#: simple-photo-gallery/classes/wppg-photo-general-init-tasks.php:55
+msgid "Error: No gallery found with the following ID: "
+msgstr "Greška: Nije pronađena galerija koja ima dati ID:"
+
+#: simple-photo-gallery/classes/wppg-photo-general-init-tasks.php:107
+msgid ""
+"Simple Photo Gallery: Please specify a gallery ID or multiple IDs separated "
+"by commas"
+msgstr ""
+"Simple Photo Gallery: Navedite ID ili više ID-ja galerije, odvojenih "
+"zarezima."
+
+#: simple-photo-gallery/classes/wppg-photo-installer.php:115
+msgid "Galleries"
+msgstr "Galerije"
+
+#: simple-photo-gallery/classes/wppg-photo-installer.php:136
+msgid "Photo Details"
+msgstr "Detalji fotografije"
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-gallery-home.php:90
+msgid "There are currently no galleries!"
+msgstr "Trenutno nema galerija!"
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-details.php:18
+msgid ""
+"This page is for displaying the details of a selected photo. Please click on "
+"a photo from one of the galleries to see the details."
+msgstr ""
+"Ova stranica služi za prikazivanje detalja o odabranoj fotografiji. Da biste "
+"videli detalje iz jedne od galerija, kliknite na fotografiju."
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-details.php:188
+#, php-format
+msgid "Displaying photo %s of %s"
+msgstr "Prikazivanje fotografije %s iz %s."
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-details.php:208
+msgid "Previous Photo"
+msgstr "Prethodna fotografija"
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-details.php:211
+msgid "Next Photo"
+msgstr "Sledeća fotografija"
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-details.php:214
+msgid "Back To Gallery Page"
+msgstr "Nazad na stranicu galerije"
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-gallery-template-1.php:58
+msgid "View Photo"
+msgstr "Vidi fotografiju"
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-gallery-template-1.php:97
+msgid "View Image"
+msgstr "Vidi sliku"
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-gallery-template-2.php:71
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-gallery-template-2.php:122
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-gallery-template-3.php:57
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-gallery-template-3.php:108
+msgid "View"
+msgstr "Vidi"

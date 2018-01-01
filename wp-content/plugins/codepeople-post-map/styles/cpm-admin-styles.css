@@ -1,0 +1,16 @@
+/**
+ * CodePeople Post Map 
+ * Version: 1.0.1
+ * Author: CodePeople
+ * Plugin URI: http://wordpress.dwbooster.com
+*/
+
+#cpm_icon_cont {width:98%;height:126px;float:left;overflow-y:auto;padding:2px;border:solid #CCC 1px;}
+.cpm_icon {float:left;cursor:pointer;margin:1px;padding:1px;border:solid 1px #F9F9F9;cursor:pointer;width:37px;height:37px;}
+.cpm_selected {border:solid #CCC 1px !important;background-color:#BBBBBB;}
+.cpm_label {padding:5px;text-align:left;}
+#icon_credit {clear:both;padding-top:3px;width:167px;float:right;}
+#map_data{display:none;}
+#cpm_thumbnail_container {clear:both;overflow:auto;width:100%;height:65px;}
+.cpm_thumb {padding:4px;width:40px;height:40px;float:left;}
+.cpm_thumb_selected, .cpm_thumb:hover{border:solid #CCC 1px !important;}
