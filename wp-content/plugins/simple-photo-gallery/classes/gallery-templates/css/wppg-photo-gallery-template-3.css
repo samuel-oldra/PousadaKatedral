@@ -1,0 +1,11 @@
+.wpsg-t3-item { 
+    width: 30%;
+}
+.wpsg-t3-item.w2 { 
+    width: 60%; 
+}
+.wpsg-t3-item a img{ 
+    border-radius: 0;
+    margin: 0 5px 5px 0;
+}
+

@@ -1,0 +1,52 @@
+#wppg_albumcontainer{
+    clear:both;
+    width:100%;
+    height:100%;
+}
+#wppg_albumcontainer .wppg_album_item_container{
+    border:1px solid #DDDDDD; 
+    box-shadow:0 -1px 0 rgba(255, 255, 255, 0.4) inset, 0 1px 1px rgba(0, 0, 0, 0.1);
+    margin:0 10px 10px 0;
+    float:left;
+    display: block;
+    max-width:150px;
+}
+#wppg_albumcontainer .wppg_album_item_top{
+    display: block;
+    padding:0;
+    margin:0;
+    max-height:150px;
+}
+#wppg_albumcontainer .wppg_album_item_top img{
+    border-radius: 0;
+    max-width: 100%;
+}
+#wppg_albumcontainer .wppg_album_item_thumbnail{
+    
+}
+#wppg_albumcontainer .wppg_album_item_bottom{
+    background: #F5F5F5;
+    border-top:1px solid #DDD;
+    /*max-height:20px;*/
+    padding: 10px;
+    overflow:hidden;
+}
+#wppg_albumcontainer .wppg_album_item_bottom .wppg_album_item_name{
+    color: #525351;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 14px;
+    text-transform:uppercase;
+    text-align: center;
+}
+#wppg_albumcontainer .wppg_album_item_bottom .wppg_album_item_name a{
+    text-decoration: none;
+    color: #525351;
+}
+#wppg_albumcontainer .wppg_album_item_bottom .wppg_album_item_name a:hover{
+    color: #464745;
+}
+
+#wppg_albumcontainer .clear{
+    clear:both;
+}

@@ -1,0 +1,2051 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Philoxenia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-07 01:32+0200\n"
+"PO-Revision-Date: 2013-05-07 01:32+0200\n"
+"Last-Translator: Anastis Sourgoutsidis <anastis@cssigniter.com>\n"
+"Language-Team: CSSIgniter LLC <info@cssigniter.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:11 ../inc_hero.php:37
+msgid "Not found"
+msgstr ""
+
+#: ../404.php:12
+msgid ""
+"Oh, no! The page you requested could not be found. Perhaps searching will "
+"help..."
+msgstr ""
+
+#: ../404.php:16 ../404.php:17 ../inc_hero.php:41 ../searchform.php:3
+#: ../searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: ../archive-room.php:12 ../index.php:12 ../template-rooms.php:45
+#, php-format
+msgid "Permalink to: %s"
+msgstr ""
+
+#: ../comment-form.php:3 ../comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../comment-form.php:36 ../template-booking.php:102
+msgid "Name"
+msgstr ""
+
+#: ../comment-form.php:37 ../template-booking.php:107
+msgid "Email"
+msgstr ""
+
+#: ../comment-form.php:38
+msgid "Website"
+msgstr ""
+
+#: ../comment-form.php:41
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: ../comment-form.php:44
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: ../comment-form.php:45
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comment-form.php:46
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../comment-form.php:47
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../comment-form.php:48
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: ../comment-form.php:51
+msgid "Have your say"
+msgstr ""
+
+#: ../comment-form.php:52
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: ../comment-form.php:53
+msgid "Cancel reply"
+msgstr ""
+
+#: ../comment-form.php:54
+msgid "Submit Comment"
+msgstr ""
+
+#: ../comments.php:5
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:12
+msgid "No comments"
+msgstr ""
+
+#: ../comments.php:12
+msgid "1 comment"
+msgstr ""
+
+#: ../comments.php:12
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../comments.php:24
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:41
+msgid ""
+"<p>For best results, use an image that is at least 1920 pixels wide.</p>"
+msgstr ""
+
+#: ../inc_booking.php:16 ../template-booking.php:112
+msgctxt "verb"
+msgid "Arrive"
+msgstr ""
+
+#: ../inc_booking.php:21 ../template-booking.php:117
+msgctxt "verb"
+msgid "Depart"
+msgstr ""
+
+#: ../inc_booking.php:26 ../template-booking.php:122
+msgid "Adults"
+msgstr ""
+
+#: ../inc_booking.php:36 ../template-booking.php:132
+msgid "Children"
+msgstr ""
+
+#: ../inc_booking.php:47
+msgid "Check Availability"
+msgstr ""
+
+#: ../inc_hero.php:47
+msgid "From the blog"
+msgstr ""
+
+#: ../inc_hero.php:48
+msgid "Subscribe to RSS"
+msgstr ""
+
+#: ../inc_newsletter.php:6
+msgid "Enter your name"
+msgstr ""
+
+#: ../inc_newsletter.php:7
+msgid "Enter your email"
+msgstr ""
+
+#: ../inc_newsletter.php:8
+msgid "Submit"
+msgstr ""
+
+#: ../index.php:13 ../search.php:30 ../single.php:14
+#, php-format
+msgctxt "author name"
+msgid "Posted by %s"
+msgstr ""
+
+#: ../index.php:13 ../search.php:30 ../single.php:14
+#, php-format
+msgctxt "categories list"
+msgid "Under: %s"
+msgstr ""
+
+#: ../search.php:15
+msgid "No results found. Please broaden your terms and search again."
+msgstr ""
+
+#: ../search.php:16
+msgid ""
+"Just one result found. We either nailed it, or you might want to broaden "
+"your terms and search again."
+msgstr ""
+
+#: ../search.php:17
+#, php-format
+msgid "%d results found."
+msgstr ""
+
+#: ../search.php:19
+msgid "Search results"
+msgstr ""
+
+#: ../search.php:29
+msgid "Permalink to"
+msgstr ""
+
+#: ../single-room.php:77 ../functions/post_types/room.php:102
+msgid "Amenities"
+msgstr ""
+
+#: ../single-room.php:90
+msgid "No amenities available"
+msgstr ""
+
+#: ../template-archive.php:24
+msgid "Latest posts"
+msgstr ""
+
+#: ../template-archive.php:27
+msgid "Permalink to:"
+msgstr ""
+
+#: ../template-archive.php:32
+msgid "Weekly Archive"
+msgstr ""
+
+#: ../template-archive.php:37
+msgid "Monthly Archive"
+msgstr ""
+
+#: ../template-archive.php:42
+msgid "Yearly Archive"
+msgstr ""
+
+#: ../template-booking.php:28
+msgid "Your name is required"
+msgstr ""
+
+#: ../template-booking.php:31
+msgid "A valid email is required"
+msgstr ""
+
+#: ../template-booking.php:34
+msgid "A complete arrival date is required"
+msgstr ""
+
+#: ../template-booking.php:37
+msgid "The arrival date must be in the form yyyy/mm/dd"
+msgstr ""
+
+#: ../template-booking.php:40
+msgid "A complete departure date is required"
+msgstr ""
+
+#: ../template-booking.php:43
+msgid "The departure date must be in the form yyyy/mm/dd"
+msgstr ""
+
+#: ../template-booking.php:46
+msgid "A number of one or more adults is required"
+msgstr ""
+
+#: ../template-booking.php:49
+msgid "A number of zero or more children is required"
+msgstr ""
+
+#: ../template-booking.php:55
+msgid "Name:"
+msgstr ""
+
+#: ../template-booking.php:56
+msgid "Email:"
+msgstr ""
+
+#: ../template-booking.php:57
+msgid "Date of arrival:"
+msgstr ""
+
+#: ../template-booking.php:58
+msgid "Date of departure:"
+msgstr ""
+
+#: ../template-booking.php:59
+msgid "Adults:"
+msgstr ""
+
+#: ../template-booking.php:60
+msgid "Children:"
+msgstr ""
+
+#: ../template-booking.php:61
+msgid "Comments:"
+msgstr ""
+
+#: ../template-booking.php:63
+msgid "Booking Enquiry"
+msgstr ""
+
+#: ../template-booking.php:95
+msgid ""
+"You booking inquiry has been sent. We will contact you as soon as possible."
+msgstr ""
+
+#: ../template-booking.php:143
+msgid "Comments"
+msgstr ""
+
+#: ../template-booking.php:147
+msgid "Send"
+msgstr ""
+
+#: ../functions/comments.php:18
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions/comments.php:31
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions/comments.php:31
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions/nav_menus.php:5
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions/post_types.php:26
+msgctxt "taxonomy general name"
+msgid "Room Categories"
+msgstr ""
+
+#: ../functions/post_types.php:27
+msgctxt "taxonomy singular name"
+msgid "Room Category"
+msgstr ""
+
+#: ../functions/post_types.php:28
+msgid "Search Room Categories"
+msgstr ""
+
+#: ../functions/post_types.php:29
+msgid "All Room Categories"
+msgstr ""
+
+#: ../functions/post_types.php:30
+msgid "Parent Room Categories"
+msgstr ""
+
+#: ../functions/post_types.php:31
+msgid "Parent Room Categories:"
+msgstr ""
+
+#: ../functions/post_types.php:32
+msgid "Edit Room Category"
+msgstr ""
+
+#: ../functions/post_types.php:33
+msgid "Update Room Category"
+msgstr ""
+
+#: ../functions/post_types.php:34
+msgid "Add New Room Category"
+msgstr ""
+
+#: ../functions/post_types.php:35
+msgid "New Room Category Name"
+msgstr ""
+
+#: ../functions/sidebars.php:7
+msgid "Homepage"
+msgstr ""
+
+#: ../functions/sidebars.php:9
+msgid "3 widgets under the slider. Use the CI Page widget."
+msgstr ""
+
+#: ../functions/sidebars.php:17
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../functions/sidebars.php:19 ../functions/sidebars.php:29
+msgid "Sidebar on the right"
+msgstr ""
+
+#: ../functions/sidebars.php:27
+msgid "Room Sidebar"
+msgstr ""
+
+#: ../functions/sidebars.php:37
+msgid "Footer"
+msgstr ""
+
+#: ../functions/sidebars.php:39
+msgid "3 widgets in the footer"
+msgstr ""
+
+#: ../functions/template_hooks.php:8 ../functions/template_hooks.php:18
+msgid "Powered by WordPress"
+msgstr ""
+
+#: ../functions/template_hooks.php:10
+msgid "Premium WordPress Themes"
+msgstr ""
+
+#: ../functions/template_hooks.php:11
+msgid "A theme by CSSIgniter.com"
+msgstr ""
+
+#: ../functions/post_types/page.php:8
+msgid "Base Rooms Category"
+msgstr ""
+
+#: ../functions/post_types/page.php:25
+msgid ""
+"Select the base rooms category. Only rooms of the selected category and sub-"
+"categories will be displayed. If you don't select one (i.e. empty) all room "
+"categories will be shown. You need to select a <strong>Rooms Listing</"
+"strong> template for this option to work."
+msgstr ""
+
+#: ../functions/post_types/room.php:13
+msgctxt "post type general name"
+msgid "Rooms"
+msgstr ""
+
+#: ../functions/post_types/room.php:14
+msgctxt "post type singular name"
+msgid "Room"
+msgstr ""
+
+#: ../functions/post_types/room.php:15 ../functions/post_types/room.php:18
+msgid "New Room"
+msgstr ""
+
+#: ../functions/post_types/room.php:16
+msgid "Add New Room"
+msgstr ""
+
+#: ../functions/post_types/room.php:17
+msgid "Edit Room"
+msgstr ""
+
+#: ../functions/post_types/room.php:19
+msgid "View Room"
+msgstr ""
+
+#: ../functions/post_types/room.php:20
+msgid "Search Rooms"
+msgstr ""
+
+#: ../functions/post_types/room.php:21
+msgid "No Rooms found"
+msgstr ""
+
+#: ../functions/post_types/room.php:22
+msgid "No Rooms found in the trash"
+msgstr ""
+
+#: ../functions/post_types/room.php:23
+msgid "Parent Room Item:"
+msgstr ""
+
+#: ../functions/post_types/room.php:28
+msgid "Room"
+msgstr ""
+
+#: ../functions/post_types/room.php:47
+msgid "Room Details"
+msgstr ""
+
+#: ../functions/post_types/room.php:76
+msgid "Gallery"
+msgstr ""
+
+#: ../functions/post_types/room.php:78
+msgid ""
+"Each room has its own slider. In order for the slider to appear, you need to "
+"have at least two images uploaded and assigned to the post. This can be done "
+"by clicking <a href=\"#\" class=\"ci-upload\">here</a>, or pressing the "
+"<strong>Upload Images</strong> button bellow, or via the <strong>Add Media "
+"<img src=\""
+msgstr ""
+
+#: ../functions/post_types/room.php:79
+msgid ""
+"When the slider is enabled and you have assigned multiple images, the slider "
+"will appear. If you only have one image assigned, that image will appear in "
+"place of the slider."
+msgstr ""
+
+#: ../functions/post_types/room.php:80
+msgid ""
+"When the slider is not enabled, or you don't have any images assigned to the "
+"room, nothing will be displayed (not even the <b>Amenities</b>)."
+msgstr ""
+
+#: ../functions/post_types/room.php:81
+msgid "Upload Images"
+msgstr ""
+
+#: ../functions/post_types/room.php:84
+msgid "Add a slider to this post."
+msgstr ""
+
+#: ../functions/post_types/room.php:88
+msgid "Don't add a slider to this post."
+msgstr ""
+
+#: ../functions/post_types/room.php:91
+msgid ""
+"You can prevent the featured image getting into the header. Disable this "
+"only if you want to show the default header image, set from the Theme's "
+"Settings, Display Options tab. Normally, when the Featured Image is "
+"displayed as the header, it is excluded from the slider, but when the "
+"default header image is shown, is included normally on the room's slider (if "
+"the image is attached to the post)."
+msgstr ""
+
+#: ../functions/post_types/room.php:94
+msgid "Use the Featured Image as the header image for this room."
+msgstr ""
+
+#: ../functions/post_types/room.php:98
+msgid "Don't use the Featured Image as the header image for this room."
+msgstr ""
+
+#: ../functions/post_types/room.php:103
+msgid ""
+"Provide the amenities of the room. Select <b>Add Field</b> as many times as "
+"you want to create a list of amenities. You can delete one by clicking on "
+"its <b>Remove me</b> link next to it. You may also click and drag the fields "
+"to re-arrange them."
+msgstr ""
+
+#: ../functions/post_types/room.php:105
+msgid "Add Field"
+msgstr ""
+
+#: ../functions/post_types/room.php:113
+#: ../functions/tabs/newsletter_options.php:58
+#: ../functions/tabs/newsletter_options.php:67
+msgid "Remove me"
+msgstr ""
+
+#: ../functions/post_types/room.php:143
+msgid "Categories"
+msgstr ""
+
+#: ../functions/post_types/slider.php:12
+msgctxt "post type general name"
+msgid "Slider Items"
+msgstr ""
+
+#: ../functions/post_types/slider.php:13
+msgctxt "post type singular name"
+msgid "Slider Item"
+msgstr ""
+
+#: ../functions/post_types/slider.php:14 ../functions/post_types/slider.php:17
+msgid "New Slider Item"
+msgstr ""
+
+#: ../functions/post_types/slider.php:15
+msgid "Add New Slider Item"
+msgstr ""
+
+#: ../functions/post_types/slider.php:16
+msgid "Edit Slider Item"
+msgstr ""
+
+#: ../functions/post_types/slider.php:18
+msgid "View Slider Item"
+msgstr ""
+
+#: ../functions/post_types/slider.php:19
+msgid "Search Slider Items"
+msgstr ""
+
+#: ../functions/post_types/slider.php:20
+msgid "No Slider Items found"
+msgstr ""
+
+#: ../functions/post_types/slider.php:21
+msgid "No Slider Items found in the trash"
+msgstr ""
+
+#: ../functions/post_types/slider.php:22
+msgid "Parent Slider Item:"
+msgstr ""
+
+#: ../functions/post_types/slider.php:27
+msgid "Slider Item"
+msgstr ""
+
+#: ../functions/post_types/slider.php:44
+msgid "Slider Details"
+msgstr ""
+
+#: ../functions/post_types/slider.php:64
+msgid ""
+"Assign a Featured Image for this slider item, so that it appears on the home "
+"page slider. Also, set a URL below to redirect the user, when the image gets "
+"clicked. Leaving the URL blank, will make the image unclickable."
+msgstr ""
+
+#: ../functions/post_types/slider.php:65
+msgid "Slider Item URL"
+msgstr ""
+
+#: ../functions/tabs/archive_options.php:8
+msgid "Archive Options"
+msgstr ""
+
+#: ../functions/tabs/buysellads_options.php:8
+msgid "BuySellAds Options"
+msgstr ""
+
+#: ../functions/tabs/color_options.php:8
+msgid "Color Options"
+msgstr ""
+
+#: ../functions/tabs/custom_css.php:8
+msgid "Custom CSS"
+msgstr ""
+
+#: ../functions/tabs/display_options.php:8
+msgid "Display Options"
+msgstr ""
+
+#: ../functions/tabs/display_options.php:28
+msgid ""
+"Upload or select an image to be used as the default header background on "
+"your blog section. This will be displayed only on listing pages and when the "
+"currently showing post has no featured image attached. For best results, use "
+"a high resolution image, more than 1920 pixels wide."
+msgstr ""
+
+#: ../functions/tabs/display_options.php:30
+msgid "Upload a header image"
+msgstr ""
+
+#: ../functions/tabs/feedburner_options.php:8
+msgid "FeedBurner Options"
+msgstr ""
+
+#: ../functions/tabs/google_options.php:8
+msgid "Google Options"
+msgstr ""
+
+#: ../functions/tabs/home_options.php:8
+msgid "Homepage Options"
+msgstr ""
+
+#: ../functions/tabs/home_options.php:27
+msgid ""
+"Select your booking form page, that you have created and assigned the "
+"\"Booking Form\" page template. This is to redirect properly when checking "
+"availability from any page on the site. If blank, the booking form will be "
+"hidden. The booking form e-mail address is where the e-mails will be send."
+msgstr ""
+
+#: ../functions/tabs/home_options.php:29
+msgid "Select the Booking Form page"
+msgstr ""
+
+#: ../functions/tabs/home_options.php:38
+msgid "Booking form E-mail address"
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:8
+msgid "Newsletter Options"
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:22
+msgid "Sign up to our newsletter"
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:23
+msgid "Get explosive offers straight to your inbox and win a free weekend stay"
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:32
+msgid ""
+"You can set your newsletter options here. The newsletter form appears on "
+"your front page. You can set the wording of your newsletter form here. The "
+"header is displayed on top of the form, while the description is displayed "
+"on the left."
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:33
+msgid "Heading"
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:34
+msgid "Description"
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:38
+msgid ""
+"This newsletter form can be used in combination with plugins or online "
+"providers such as <a href=\"http://www.campaignmonitor.com\">Campaign "
+"Monitor</a> and <a href=\"http://www.mailchimp.com\">MailChimp</a>. Please "
+"refer to their respective documentation if you need to know what the values "
+"of <b>Action</b>, <b>field names</b> and <b>field IDs</b> should be. Please "
+"note that if the <b>Action URL</b> is blank, then the form will not be "
+"displayed."
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:39
+msgid "Action URL"
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:40
+msgid "\"Name\" field ID"
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:41
+msgid "\"Name\" field name"
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:42
+msgid "\"Email\" field ID"
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:43
+msgid "\"Email\" field name"
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:47
+msgid ""
+"You can pass additional data to your newsletter system, by means of hidden "
+"fields (e.g. Mailchimp requires them). For the hidden input <strong>name</"
+"strong>, fill the left input on a line. For the hidden input <strong>value</"
+"strong>, fill the right input on a line."
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:49
+msgid "Hidden fields"
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:50
+msgid "Add hidden field"
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:58
+#: ../functions/tabs/newsletter_options.php:67
+msgid "Hidden field name"
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:58
+#: ../functions/tabs/newsletter_options.php:67
+msgid "Hidden field value"
+msgstr ""
+
+#: ../functions/tabs/site_options.php:8
+msgid "Site Options"
+msgstr ""
+
+#: ../functions/tabs/social_options.php:15
+msgid "Social Options"
+msgstr ""
+
+#: ../functions/tabs/twitter_options.php:8
+msgid "Twitter Options"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_page.php:6
+msgid "Displays a single page with a featured image"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_page.php:35
+msgid "Learn more &raquo;"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_page.php:56
+msgid "Title (leave empty to use the page's title):"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_page.php:57
+msgid "Page to show:"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_room.php:6
+msgid "Displays a room"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_room.php:55
+msgid "Title (leave empty to use the room's title):"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_room.php:56
+msgid "Room to show:"
+msgstr ""
+
+#: ../panel/ci_panel.php:137
+msgid "CSSIgniter Settings"
+msgstr ""
+
+#: ../panel/ci_panel.php:139
+msgid "Theme Settings"
+msgstr ""
+
+#: ../panel/ci_panel.php:155
+#, php-format
+msgctxt "theme name settings"
+msgid "%s Settings"
+msgstr ""
+
+#: ../panel/ci_panel.php:160
+#, php-format
+msgid ""
+"A theme update is available. The latest version is <b>%1$s</b> and you are "
+"running <b>%2$s</b>"
+msgstr ""
+
+#: ../panel/ci_panel.php:176
+msgid "Settings reset!"
+msgstr ""
+
+#: ../panel/ci_panel.php:181
+msgid "Documentation"
+msgstr ""
+
+#: ../panel/ci_panel.php:183
+msgid "Support forum"
+msgstr ""
+
+#: ../panel/ci_panel.php:185 ../panel/ci_panel.php:220
+msgid "Save Changes"
+msgstr ""
+
+#: ../panel/ci_panel.php:227
+msgid "Reset Settings"
+msgstr ""
+
+#: ../panel/ci_panel.php:227
+msgid "Are you sure? All settings will be lost!"
+msgstr ""
+
+#: ../panel/ci_panel.php:359
+msgid "Upload image"
+msgstr ""
+
+#: ../panel/generic.php:14
+msgid "Less than a minute ago"
+msgstr ""
+
+#: ../panel/generic.php:21
+#, php-format
+msgid "%s minute ago"
+msgid_plural "%s minutes ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/generic.php:27
+#, php-format
+msgid "%s hour ago"
+msgid_plural "%s hours ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/generic.php:33
+#, php-format
+msgid "%s day ago"
+msgid_plural "%s days ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/generic.php:39
+#, php-format
+msgid "%s month ago"
+msgid_plural "%s months ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/generic.php:262
+msgid "Uncategorized"
+msgstr ""
+
+#: ../panel/generic.php:296
+msgid "Older posts"
+msgstr ""
+
+#: ../panel/generic.php:297
+msgid "Newer posts"
+msgstr ""
+
+#: ../panel/post_color_scheme.php:13
+msgid "Post Color Scheme"
+msgstr ""
+
+#: ../panel/post_color_scheme.php:68
+msgid ""
+"Select on of the available color schemes to override the one selected from "
+"the theme's options panel."
+msgstr ""
+
+#: ../panel/snippets/archive.php:14
+msgid "The number of the latest posts displayed in the archive page."
+msgstr ""
+
+#: ../panel/snippets/archive.php:15
+msgid "Number of latest posts"
+msgstr ""
+
+#: ../panel/snippets/archive.php:18
+msgid "Use the following options to display various types of archives."
+msgstr ""
+
+#: ../panel/snippets/archive.php:19
+msgid "Display weekly archive"
+msgstr ""
+
+#: ../panel/snippets/archive.php:20
+msgid "Display monthly archive"
+msgstr ""
+
+#: ../panel/snippets/archive.php:21
+msgid "Display yearly archive"
+msgstr ""
+
+#: ../panel/snippets/buysellads.php:25
+msgid ""
+"Paste here your BuySellAds.com code, as given by the BSA website, and it "
+"will be automatically included on every page. Then use our BSA Widget for "
+"your sidebar code."
+msgstr ""
+
+#: ../panel/snippets/buysellads.php:26
+msgid "BuySellAds.com Code"
+msgstr ""
+
+#: ../panel/snippets/color_scheme.php:41
+msgid ""
+"Select your color scheme. This affects the overall look and feel of your "
+"website."
+msgstr ""
+
+#: ../panel/snippets/color_scheme.php:54
+msgid "Color scheme"
+msgstr ""
+
+#: ../panel/snippets/comments.php:34
+msgid ""
+"You can disable comments specifically for <b>Pages</b>. This is usually "
+"preferred as pages traditionally hold static, presentational content. When "
+"checked, <b>all</b> pages will <b>not</b> have comments, overriding each "
+"page's setting. <br />When You can also enable and disable the \"Comments "
+"are closed\" message displayed on the bottom of each post/page/etc when the "
+"comments are closed. This applies everywhere."
+msgstr ""
+
+#: ../panel/snippets/comments.php:36
+msgid "Disable comments for pages"
+msgstr ""
+
+#: ../panel/snippets/comments.php:37
+msgid "Show \"Comments are closed\" message"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:179
+msgid ""
+"Control whether you want to override the theme's header background, by "
+"enabling the custom header background option and tweaking the rest as you "
+"please."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:183
+msgid "Disable custom header background"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:189
+msgid ""
+"You can set the header's background color of the page here. This option "
+"overrides the header's background color set by the Color Scheme Option (if "
+"any), so leave it empty if you want the default. You may select a color "
+"using the color picker (pops up when you click on the input box), or enter "
+"its hex number in the input box (including a leading #)."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:191
+msgid "Header's Background Color"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:196
+msgid ""
+"When this option is checked, the header's background image is disabled, "
+"whether it's set by the default stylesheets or by you, from the option below."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:198
+msgid "Disable header's background image"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:203
+msgid ""
+"You can upload an image to use as custom header's background for your site. "
+"You can also choose whether you want the image to repeat."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:204
+msgid "Upload your header's background image"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:208
+#: ../panel/snippets/custom_background.php:285
+#: ../panel/snippets/custom_background.php:361
+msgid "No Repeat"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:209
+#: ../panel/snippets/custom_background.php:286
+#: ../panel/snippets/custom_background.php:362
+msgid "Repeat"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:210
+#: ../panel/snippets/custom_background.php:287
+#: ../panel/snippets/custom_background.php:363
+msgid "Repeat X"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:211
+#: ../panel/snippets/custom_background.php:288
+#: ../panel/snippets/custom_background.php:364
+msgid "Repeat Y"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:213
+msgid "Repeat header's background image"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:219
+msgid "You can select the placement of your image in the header's background."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:223
+#: ../panel/snippets/custom_background.php:300
+#: ../panel/snippets/custom_background.php:376
+#: ../panel/snippets/featured_image_single.php:109
+msgid "Left"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:224
+#: ../panel/snippets/custom_background.php:235
+#: ../panel/snippets/custom_background.php:301
+#: ../panel/snippets/custom_background.php:312
+#: ../panel/snippets/custom_background.php:377
+#: ../panel/snippets/custom_background.php:388
+#: ../panel/snippets/featured_image_single.php:110
+msgid "Center"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:225
+#: ../panel/snippets/custom_background.php:302
+#: ../panel/snippets/custom_background.php:378
+#: ../panel/snippets/featured_image_single.php:111
+msgid "Right"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:227
+msgid "Header's Background Horizontal Placement"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:234
+#: ../panel/snippets/custom_background.php:311
+#: ../panel/snippets/custom_background.php:387
+msgid "Top"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:236
+#: ../panel/snippets/custom_background.php:313
+#: ../panel/snippets/custom_background.php:389
+msgid "Bottom"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:238
+msgid "Header's Background Vertical Placement"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:244
+msgid ""
+"When the fixed background option is checked, the header's background image "
+"will not scroll along with the rest of the page."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:246
+msgid "Fixed header's background"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:256
+msgid ""
+"Control whether you want to override the theme's background, by enabling the "
+"custom background option and tweaking the rest as you please."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:260
+msgid "Disable custom background"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:266
+msgid ""
+"You can set the background color of the page here. This option overrides the "
+"background color set by the Color Scheme Option (if any), so leave it empty "
+"if you want the default. You may select a color using the color picker (pops "
+"up when you click on the input box), or enter its hex number in the input "
+"box (including a leading #)."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:268
+msgid "Background Color"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:273
+msgid ""
+"When this option is checked, the body background image is disabled, whether "
+"it's set by the default stylesheets or by you, from the option below."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:275
+msgid "Disable background image"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:280
+msgid ""
+"You can upload an image to use as custom background for your site. You can "
+"also choose whether you want the image to repeat."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:281
+msgid "Upload your background image"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:290
+msgid "Repeat background image"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:296
+msgid "You can select the placement of your image in the background."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:304
+msgid "Background Horizontal Placement"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:315
+msgid "Background Vertical Placement"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:321
+msgid ""
+"When the fixed background option is checked, the background image will not "
+"scroll along with the rest of the page."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:323
+msgid "Fixed background"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:332
+msgid ""
+"Control whether you want to override the theme's footer background, by "
+"enabling the custom footer background option and tweaking the rest as you "
+"please."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:336
+msgid "Disable custom footer background"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:342
+msgid ""
+"You can set the footer's background color of the page here. This option "
+"overrides the footer's background color set by the Color Scheme Option (if "
+"any), so leave it empty if you want the default. You may select a color "
+"using the color picker (pops up when you click on the input box), or enter "
+"its hex number in the input box (including a leading #)."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:344
+msgid "Footer's Background Color"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:349
+msgid ""
+"When this option is checked, the footer's background image is disabled, "
+"whether it's set by the default stylesheets or by you, from the option below."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:351
+msgid "Disable footer's background image"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:356
+msgid ""
+"You can upload an image to use as custom footer's background for your site. "
+"You can also choose whether you want the image to repeat."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:357
+msgid "Upload your footer's background image"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:366
+msgid "Repeat footer's background image"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:372
+msgid "You can select the placement of your image in the footer's background."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:380
+msgid "Footer's Background Horizontal Placement"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:391
+msgid "Footer's Background Vertical Placement"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:397
+msgid ""
+"When the fixed background option is checked, the footer's background image "
+"will not scroll along with the rest of the page."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:399
+msgid "Fixed footer's background"
+msgstr ""
+
+#: ../panel/snippets/custom_css.php:28
+msgid "Paste here any custom CSS code you might have."
+msgstr ""
+
+#: ../panel/snippets/custom_css.php:29
+msgid "CSS Code"
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:71
+msgid ""
+"You can select whether you want the Content or the Excerpt to be displayed "
+"on listing pages."
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:72
+msgid "Use the following on listing pages"
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:73
+msgid "Use the Content"
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:74
+msgid "Use the Excerpt"
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:76
+msgid ""
+"You can set what the Read More text will be. This applies to both the "
+"Content and the Excerpt."
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:77
+msgid "Read More text"
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:79
+msgid ""
+"You can define how long the Excerpt will be (in words). You can also set the "
+"text that appears when the excerpt is auto-generated and is automatically "
+"cut-off. These options only apply to the Excerpt."
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:80
+msgid "Excerpt length (in words)"
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:81
+msgid "Excerpt auto cut-off text"
+msgstr ""
+
+#: ../panel/snippets/favicon.php:22
+msgid ""
+"Here you can upload your favicon. The favicon is a small, 16x16 icon that "
+"appears besides your URL in the address bar, in open tabs and/or in "
+"bookmarks. We recommend you create your favicon from an existing square "
+"image, using appropriate online services such as <a href=\"http://tools."
+"dynamicdrive.com/favicon/\">Dynamic Drive</a> and <a href=\"http://www."
+"favicon.cc/\">favicon.cc</a>"
+msgstr ""
+
+#: ../panel/snippets/favicon.php:23
+msgid "Upload your favicon"
+msgstr ""
+
+#: ../panel/snippets/featured_image_fullwidth.php:55
+msgid ""
+"You can select whether the full width page template (if applicable) will use "
+"it's own image size, or the same configuration as normal posts and pages. If "
+"you select its own size, you can only configure the height of the image, as "
+"the width will match the width of the page by default. Please note that if "
+"you choose the full width and/or change its height, you will need to "
+"regenerate your thumbnails."
+msgstr ""
+
+#: ../panel/snippets/featured_image_fullwidth.php:58
+msgid "Full width image"
+msgstr ""
+
+#: ../panel/snippets/featured_image_fullwidth.php:59
+msgid "The same as posts/pages"
+msgstr ""
+
+#: ../panel/snippets/featured_image_fullwidth.php:60
+msgctxt "featured image is disabled"
+msgid "Disabled"
+msgstr ""
+
+#: ../panel/snippets/featured_image_fullwidth.php:62
+msgid "Featured image for Full Width template is"
+msgstr ""
+
+#: ../panel/snippets/featured_image_fullwidth.php:63
+msgid "Full Width featured image height"
+msgstr ""
+
+#: ../panel/snippets/featured_image_single.php:91
+#, php-format
+msgid ""
+"Control whether you want the featured image of each post to be displayed "
+"when viewing that post's page. The featured image can be shown/hidden on "
+"each individual post type, with common dimensions. You can define its width "
+"and height <em>(defaults to the content width, currently: %d pixels)</em>, "
+"and whether you want it aligned on the left, right or middle of the page."
+msgstr ""
+
+#: ../panel/snippets/featured_image_single.php:92
+msgid ""
+"Note that if you change the width and/or the height of the featured images, "
+"you will need to regenerate all your thumbnails using an appropriate plugin, "
+"such as the <a href=\"http://wordpress.org/extend/plugins/regenerate-"
+"thumbnails/\" target=\"_blank\">Regenerate Thumbnails</a> plugin, otherwise "
+"your images may appear distorted."
+msgstr ""
+
+#: ../panel/snippets/featured_image_single.php:100
+#, php-format
+msgid "Show featured images on <em>%s</em>"
+msgstr ""
+
+#: ../panel/snippets/featured_image_single.php:104
+msgid "Featured image Width"
+msgstr ""
+
+#: ../panel/snippets/featured_image_single.php:105
+msgid "Featured image Height"
+msgstr ""
+
+#: ../panel/snippets/featured_image_single.php:108
+msgid "None"
+msgstr ""
+
+#: ../panel/snippets/featured_image_single.php:113
+msgid "Featured image alignment"
+msgstr ""
+
+#: ../panel/snippets/feedburner.php:42
+msgid ""
+"By adding your FeedBurner URL here, your main feed will be served by "
+"FeedBurner instead of your Wordpress site."
+msgstr ""
+
+#: ../panel/snippets/feedburner.php:43
+msgid "FeedBurner Feed URL"
+msgstr ""
+
+#: ../panel/snippets/footer_text.php:29
+#, php-format
+msgid ""
+"You can change the footer text by entering your custom text here. You may "
+"use <strong>:year:</strong> to display the current year. The following HTML "
+"tags are allowed: %s"
+msgstr ""
+
+#: ../panel/snippets/footer_text.php:32
+msgid "Footer text"
+msgstr ""
+
+#: ../panel/snippets/footer_text.php:36
+msgid "Secondary footer text"
+msgstr ""
+
+#: ../panel/snippets/google_analytics.php:22
+msgid ""
+"Paste here your Google Analytics Code, as given by the Analytics website "
+"(including the <b>&lt;script&gt;</b> and <b>&lt;/script&gt;</b> tags), and "
+"it will be automatically included on every page."
+msgstr ""
+
+#: ../panel/snippets/google_analytics.php:23
+msgid "Google Analytics Code"
+msgstr ""
+
+#: ../panel/snippets/logo.php:11
+msgid ""
+"Upload your logo here. It will replace the textual logo (site name) on the "
+"header."
+msgstr ""
+
+#: ../panel/snippets/logo.php:12
+msgid "Upload your logo"
+msgstr ""
+
+#: ../panel/snippets/sample_content.php:10
+#, php-format
+msgid ""
+"You can download sample content to help you get things started with this "
+"theme. You need to unzip the downloaded file, and then upload the resulting "
+"XML file via <a href=\"%s\">Tools -> Import -> WordPress</a>. Please note "
+"that the images imported with the sample content are licensed, and therefore "
+"you are not allowed to use or redistribute them."
+msgstr ""
+
+#: ../panel/snippets/sample_content.php:11
+msgid "Download sample content"
+msgstr ""
+
+#: ../panel/snippets/seo.php:103
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../panel/snippets/seo.php:116
+msgid ""
+"Select how you want the &lt;title> tag handled. \"<b>Automatic title</b>\" "
+"checks a list of known SEO plugins and behaves accordingly. This is the "
+"recommended setting if the SEO plugin you use is detected properly."
+msgstr ""
+
+#: ../panel/snippets/seo.php:117
+msgid ""
+"\"<b>Use the theme's default title</b>\" gives a good result if you don't "
+"have a SEO plugin installed."
+msgstr ""
+
+#: ../panel/snippets/seo.php:118
+msgid ""
+"\"<b>Use pure WordPress function</b>\" should only be used if you have a SEO "
+"plugin installed that isn't detected, and the plugin's documentation "
+"suggests to change the title tag function to <b>wp_title('');</b> . In that "
+"case, you don't need to edit any files, just select this option."
+msgstr ""
+
+#: ../panel/snippets/seo.php:125
+msgid "A known SEO plugin could not be detected."
+msgstr ""
+
+#: ../panel/snippets/seo.php:128
+#, php-format
+msgid ""
+"The <b>%s</b> plugin was detected. Please use the <b>Automatic title</b> "
+"setting."
+msgstr ""
+
+#: ../panel/snippets/seo.php:133
+msgid "Use the following on the &lt;title> tag"
+msgstr ""
+
+#: ../panel/snippets/seo.php:134
+msgid "Automatic title"
+msgstr ""
+
+#: ../panel/snippets/seo.php:135
+msgid "Use the theme's default title"
+msgstr ""
+
+#: ../panel/snippets/seo.php:136
+msgid "Use pure WordPress function ( wp_title('') )"
+msgstr ""
+
+#: ../panel/snippets/seo.php:139
+msgid ""
+"The title separator is inserted between various elements within the title "
+"tag of each page. Leading and trailing spaces are automatically inserted "
+"where appropriate. This only applies when the option \"Use the theme's "
+"default title\" above is selected."
+msgstr ""
+
+#: ../panel/snippets/seo.php:141
+msgid "Title separator"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:15
+msgid ""
+"The following options control the main slider. You may enable auto-sliding "
+"by checking the appropriate option, or by setting the auto-slide timeout to "
+"a value grater than 0. A demo of the transition effects can be seen <a href="
+"\"http://jquery.malsup.com/cycle/browser.html\">here</a>."
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:17
+#: ../panel/snippets/slider_cycle_internal.php:17
+#: ../panel/snippets/slider_flexslider.php:17
+#: ../panel/snippets/slider_flexslider_internal.php:17
+msgid "Enable auto-slide"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:20
+#: ../panel/snippets/slider_cycle_internal.php:20
+msgid "Auto-slide timeout (milliseconds)"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:25
+#: ../panel/snippets/slider_cycle_internal.php:25
+msgctxt "slider effect"
+msgid "None"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:26
+#: ../panel/snippets/slider_cycle_internal.php:26
+msgctxt "slider effect"
+msgid "Cover"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:27
+#: ../panel/snippets/slider_cycle_internal.php:27
+msgctxt "slider effect"
+msgid "Uncover"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:28
+#: ../panel/snippets/slider_cycle_internal.php:28
+#: ../panel/snippets/slider_flexslider.php:22
+#: ../panel/snippets/slider_flexslider_internal.php:22
+msgctxt "slider effect"
+msgid "Fade"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:29
+#: ../panel/snippets/slider_cycle_internal.php:29
+msgctxt "slider effect"
+msgid "Fade Zoom"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:30
+#: ../panel/snippets/slider_cycle_internal.php:30
+msgctxt "slider effect"
+msgid "Shuffle"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:31
+#: ../panel/snippets/slider_cycle_internal.php:31
+msgctxt "slider effect"
+msgid "Toss"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:32
+#: ../panel/snippets/slider_cycle_internal.php:32
+msgctxt "slider effect"
+msgid "Wipe"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:33
+#: ../panel/snippets/slider_cycle_internal.php:33
+msgctxt "slider effect"
+msgid "Zoom"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:34
+#: ../panel/snippets/slider_cycle_internal.php:34
+msgctxt "slider effect"
+msgid "Scroll Vertically"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:35
+#: ../panel/snippets/slider_cycle_internal.php:35
+msgctxt "slider effect"
+msgid "Scroll Horizontally"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:36
+#: ../panel/snippets/slider_cycle_internal.php:36
+msgctxt "slider effect"
+msgid "Scroll Left"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:37
+#: ../panel/snippets/slider_cycle_internal.php:37
+msgctxt "slider effect"
+msgid "Scroll Right"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:38
+#: ../panel/snippets/slider_cycle_internal.php:38
+msgctxt "slider effect"
+msgid "Scroll Up"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:39
+#: ../panel/snippets/slider_cycle_internal.php:39
+msgctxt "slider effect"
+msgid "Scroll Down"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:40
+#: ../panel/snippets/slider_cycle_internal.php:40
+msgctxt "slider effect"
+msgid "Blind X"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:41
+#: ../panel/snippets/slider_cycle_internal.php:41
+msgctxt "slider effect"
+msgid "Blind Y"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:42
+#: ../panel/snippets/slider_cycle_internal.php:42
+msgctxt "slider effect"
+msgid "Blind Z"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:43
+#: ../panel/snippets/slider_cycle_internal.php:43
+msgctxt "slider effect"
+msgid "Curtain X"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:44
+#: ../panel/snippets/slider_cycle_internal.php:44
+msgctxt "slider effect"
+msgid "Curtain Y"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:45
+#: ../panel/snippets/slider_cycle_internal.php:45
+msgctxt "slider effect"
+msgid "Grow X"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:46
+#: ../panel/snippets/slider_cycle_internal.php:46
+msgctxt "slider effect"
+msgid "Grow Y"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:47
+#: ../panel/snippets/slider_cycle_internal.php:47
+msgctxt "slider effect"
+msgid "Slide X"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:48
+#: ../panel/snippets/slider_cycle_internal.php:48
+msgctxt "slider effect"
+msgid "Slide Y"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:49
+#: ../panel/snippets/slider_cycle_internal.php:49
+msgctxt "slider effect"
+msgid "Turn Up"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:50
+#: ../panel/snippets/slider_cycle_internal.php:50
+msgctxt "slider effect"
+msgid "Turn Down"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:51
+#: ../panel/snippets/slider_cycle_internal.php:51
+msgctxt "slider effect"
+msgid "Turn Left"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:52
+#: ../panel/snippets/slider_cycle_internal.php:52
+msgctxt "slider effect"
+msgid "Turn Right"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:54
+#: ../panel/snippets/slider_cycle_internal.php:54
+#: ../panel/snippets/slider_flexslider.php:25
+#: ../panel/snippets/slider_flexslider_internal.php:25
+msgid "Slider Effect"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:58
+#: ../panel/snippets/slider_cycle_internal.php:58
+#: ../panel/snippets/slider_flexslider.php:38
+#: ../panel/snippets/slider_flexslider_internal.php:38
+msgid "Slideshow speed in milliseconds (smaller number means faster)"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:61
+#: ../panel/snippets/slider_cycle_internal.php:61
+msgid "Enable synchronized sliding"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle_internal.php:15
+msgid ""
+"The following options control the internal slider. You may enable auto-"
+"sliding by checking the appropriate option, or by setting the auto-slide "
+"timeout to a value grater than 0. A demo of the transition effects can be "
+"seen <a href=\"http://jquery.malsup.com/cycle/browser.html\">here</a>."
+msgstr ""
+
+#: ../panel/snippets/slider_flexslider.php:15
+msgid ""
+"The following options control the main slider. You may enable or disable "
+"auto-sliding by checking the appropriate option and further control its "
+"behavior."
+msgstr ""
+
+#: ../panel/snippets/slider_flexslider.php:23
+#: ../panel/snippets/slider_flexslider_internal.php:23
+msgctxt "slider effect"
+msgid "Slide"
+msgstr ""
+
+#: ../panel/snippets/slider_flexslider.php:31
+#: ../panel/snippets/slider_flexslider_internal.php:31
+msgctxt "slider direction"
+msgid "Horizontal"
+msgstr ""
+
+#: ../panel/snippets/slider_flexslider.php:32
+#: ../panel/snippets/slider_flexslider_internal.php:32
+msgctxt "slider direction"
+msgid "Vertical"
+msgstr ""
+
+#: ../panel/snippets/slider_flexslider.php:34
+#: ../panel/snippets/slider_flexslider_internal.php:34
+msgid "Slide Direction (only for <b>Slide</b> effect)"
+msgstr ""
+
+#: ../panel/snippets/slider_flexslider.php:41
+#: ../panel/snippets/slider_flexslider_internal.php:41
+msgid "Animation duration in milliseconds (smaller number means faster)"
+msgstr ""
+
+#: ../panel/snippets/slider_flexslider_internal.php:15
+msgid ""
+"The following options control the internal slider. You may enable or disable "
+"auto-sliding by checking the appropriate option and further control its "
+"behavior."
+msgstr ""
+
+#: ../panel/snippets/social.php:29
+msgid "Subscribe to our RSS feed."
+msgstr ""
+
+#: ../panel/snippets/social.php:33
+msgid "Follow us on twitter."
+msgstr ""
+
+#: ../panel/snippets/social.php:37
+msgid "Check out our videos on YouTube."
+msgstr ""
+
+#: ../panel/snippets/social.php:47
+msgid "Like us on Facebook."
+msgstr ""
+
+#: ../panel/snippets/social.php:51
+msgid "Join our circle in Google+"
+msgstr ""
+
+#: ../panel/snippets/social.php:55
+msgid "Let's meet in LinkedIn"
+msgstr ""
+
+#: ../panel/snippets/social.php:59
+msgid "See our pinboards on Pinterest"
+msgstr ""
+
+#: ../panel/snippets/social.php:63
+msgid "See our photos on Flickr"
+msgstr ""
+
+#: ../panel/snippets/social.php:67
+msgid "Visit our Wordpress.com blog"
+msgstr ""
+
+#: ../panel/snippets/social.php:71 ../panel/snippets/social.php:75
+msgid "See our Dribbble shots."
+msgstr ""
+
+#: ../panel/snippets/social.php:79
+msgid "See our photos on Picasa."
+msgstr ""
+
+#: ../panel/snippets/social.php:83
+msgid "See our pinboards."
+msgstr ""
+
+#: ../panel/snippets/social.php:87
+msgid "Let's Stumble!"
+msgstr ""
+
+#: ../panel/snippets/social.php:91
+msgid "See what we digg."
+msgstr ""
+
+#: ../panel/snippets/social.php:97
+msgid ""
+"Enter the URLs of your accounts on the following social media websites. The "
+"relevant icons will be displayed wherever you place the included -=CI "
+"SOCIAL=- widget. Unchecking and/or leaving an empty URL will hide the "
+"associated icon."
+msgstr ""
+
+#: ../panel/snippets/social.php:102
+msgid "Enable RSS icon"
+msgstr ""
+
+#: ../panel/snippets/social.php:106
+msgid "RSS Text"
+msgstr ""
+
+#: ../panel/snippets/social.php:120
+#, php-format
+msgctxt "social network name"
+msgid "Enable %s icon"
+msgstr ""
+
+#: ../panel/snippets/social.php:123
+#, php-format
+msgctxt "social network name"
+msgid "%s URL"
+msgstr ""
+
+#: ../panel/snippets/social.php:127
+#, php-format
+msgctxt "social network name"
+msgid "%s Text"
+msgstr ""
+
+#: ../panel/snippets/touch_favicon.php:31
+msgid ""
+"Touch Icons are the icons used in mobiles devices such as iOS and Android "
+"phones and tablets. You can upload images optimized for each category of "
+"devices. The images should be in PNG format. You can set each image as "
+"\"precomposed\" so that the mobile devices will not apply any visual effects "
+"to the icons."
+msgstr ""
+
+#: ../panel/snippets/touch_favicon.php:34
+msgid ""
+"Upload your touch icon (57x57px, non-Retina iPhone, iPod Touch, Android 2.1+)"
+msgstr ""
+
+#: ../panel/snippets/touch_favicon.php:35
+#: ../panel/snippets/touch_favicon.php:40
+#: ../panel/snippets/touch_favicon.php:45
+msgid "Precomposed"
+msgstr ""
+
+#: ../panel/snippets/touch_favicon.php:39
+msgid "Upload your touch icon (72x72px, 1st generation iPad)"
+msgstr ""
+
+#: ../panel/snippets/touch_favicon.php:44
+msgid "Upload your touch icon (114x114px, iPhone 4+, Retina display)"
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:21
+msgid ""
+"As of May 2013, Twitter.com is shutting down v1.0 of its API. What this "
+"means for you, is that it is now more complicated to simply display some "
+"tweets on your website using the -=CI Tweets=- widget."
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:24
+#, php-format
+msgid ""
+"You need to follow a series of steps in order to allow Twitter capabilities "
+"to your website. First, <a href=\"%s\">log into the Twitter Developers "
+"website</a>."
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:25
+msgid ""
+"<strong>Step 1:</strong> Make sure you are on the <strong>My Applications</"
+"strong> page. If you don't already have an application set up, create a new "
+"one by pressing the <em>Create a new application</em> button. Fill in the "
+"required details (you don't need a Callback URL) and press the <em>Create "
+"your Twitter application</em> button."
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:26
+msgid ""
+"<strong>Step 2:</strong> On the following page (the application's page), in "
+"<em>Details</em> tab, under the <em>Your access token</em> label, press the "
+"<strong>Create my access token</strong> button. It might take a couple of "
+"minutes for it to generate, so refresh the page once in a while, until you "
+"see the generated codes."
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:28
+msgid ""
+"<strong>Step 3:</strong> Under the <em>OAuth Settings</em> label, you will "
+"find your <strong>Consumer key</strong> and <strong>Consumer secret</"
+"strong>. Paste them below."
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:29
+msgid "Consumer Key"
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:30
+msgid "Consumer Secret"
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:32
+msgid ""
+"<strong>Step 4:</strong> Under the <em>Your access token</em> label, you "
+"will find your <strong>Access token</strong> and <strong>Access token "
+"secret</strong>. Paste them below."
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:33
+msgid "Access Token"
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:34
+msgid "Access Token Secret"
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:36
+#, php-format
+msgid ""
+"Twitter.com places <a href=\"%s\">limits on the number of requests</a> that "
+"you are allowed to make. As multiple -=CI Tweets=- widgets count as discreet "
+"requests, and each pageview triggers those requests, we have placed a "
+"caching mechanism so that you don't reach those limits. For normal use (one "
+"widget per page), an update period of one minute should be fine. If you have "
+"more than one widget instances, you might need to increase that number."
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:37
+msgid "Tweets update period in seconds (min: 5)"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_about.php:7
+msgid "About me widget"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_about.php:43
+#: ../panel/widgets/ci_widget_flickr.php:40
+#: ../panel/widgets/ci_widget_social.php:61
+msgid "Title:"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_about.php:44
+msgid "Image:"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_about.php:47
+msgid "Image alignment:"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_about.php:55
+msgid "About text:"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_ads125.php:6
+msgid "Display 125x125 Banners"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_ads125.php:90
+msgid "Title"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_ads125.php:91
+msgid "Display ads in random order?"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_ads125.php:92
+msgid "Open ads in new window?"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_bsa.php:6
+msgid "BuySellAds.com Integration"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_bsa.php:28
+msgid "Code:"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_flickr.php:6
+msgid "FlickR Widget"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_flickr.php:48
+msgid "Type:"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_flickr.php:55
+msgid "Number:"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_flickr.php:64
+msgid "Sorting:"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_social.php:14
+msgid "Social Icons widget placeholder"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_social.php:60
+msgid ""
+"This widget is a placeholder for Social Media icons. You may configure those "
+"icons from the <a href=\"themes.php?page=ci_panel.php\">CSSIgniter's panel</"
+"a>, under the <strong>Social Options</strong> tab."
+msgstr ""
+
+#: ../panel/widgets/ci_widget_social.php:62
+msgid "Color scheme to use:"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_social.php:64
+msgctxt "color scheme"
+msgid "Default"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_social.php:65
+msgctxt "color scheme"
+msgid "Light"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_social.php:66
+msgctxt "color scheme"
+msgid "Dark"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_tweets.php:118
+msgid ""
+"It looks like you haven't provided Twitter access details, in order for this "
+"widget to work. Unfortunately, this is needed. Please visit the theme's "
+"settings and provide the required access details."
+msgstr ""

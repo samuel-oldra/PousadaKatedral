@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://pousadakatedral.com.br/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.6" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.3" -->
+<!-- generated-on="15 de September de 2014 17:39" -->
+<!-- Debug: Total comment count: 0 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://pousadakatedral.com.br/</loc>
+		<lastmod>2013-08-17T17:11:33+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+	<url>
+		<loc>http://pousadakatedral.com.br/wppg_photogallery/</loc>
+		<lastmod>2014-09-08T17:38:17+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://pousadakatedral.com.br/wppg_photogallery/</loc>
+		<lastmod>2014-09-08T17:38:17+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://pousadakatedral.com.br/wppg_photogallery/wppg_photo_details/</loc>
+		<lastmod>2014-09-08T17:38:17+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://pousadakatedral.com.br/wppg_photogallery/wppg_photo_details/</loc>
+		<lastmod>2014-09-08T17:38:17+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://pousadakatedral.com.br/a-pousada/</loc>
+		<lastmod>2014-07-29T20:09:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://pousadakatedral.com.br/contato/</loc>
+		<lastmod>2014-07-23T19:46:28+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>

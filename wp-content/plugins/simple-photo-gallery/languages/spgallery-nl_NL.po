@@ -1,0 +1,675 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Photo Gallery\n"
+"POT-Creation-Date: 2014-05-31 16:09+1000\n"
+"PO-Revision-Date: 2014-06-20 11:54+0100\n"
+"Last-Translator: Art Nagy <mail@artnagy.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Language: Dutch\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:90
+msgid "Gallery Management Menu"
+msgstr "Gallery Beheer Menu"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:92
+msgid "Creating or Editing a Gallery"
+msgstr "Gallery maken of aanpassen"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:96
+msgid "To create a new gallery click the \"Create New Gallery\" button below."
+msgstr ""
+"Klik hieronder op de \"Maak een nieuwe Gallery\" knop om een nieuwe gallery "
+"te maken."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:97
+msgid ""
+"To edit an existing gallery please click the \"Edit\" link for the "
+"applicable gallery in the \"Existing Galleries\" table below."
+msgstr ""
+"Om een bestaande gallery te bewerken, klik op de \"Bewerken\" link voor de "
+"betreffende gallery in de \"Bestaande Galleries\" tabel hieronder."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:102
+msgid "Create a Gallery"
+msgstr "Een Gallery samenstellen"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:107
+msgid "Click this button if you wish to create a new gallery and upload photos"
+msgstr "Klik hier om een nieuwe gallery te maken en foto's te uploaden"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:113
+msgid "Existing Galleries"
+msgstr "Bestaande Galleries"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:165
+msgid "click here"
+msgstr "klik hier"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:166
+#, php-format
+msgid "To preview your gallery page on the front end %s"
+msgstr "Om je gallery pagina op de website te bekijken %s"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:173
+msgid "The Gallery was saved successfully."
+msgstr "De Gallery is bewaard."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:185
+msgid ""
+"You have successfully deleted the selected gallery image(s) permanently!"
+msgstr "De geselecteerde gallery afbeelding(en) zijn voorgoed verwijderd!"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:202
+msgid "Please enter a gallery name"
+msgstr "Geef de gallery a.u.b. een naam"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:223
+msgid ""
+"You entered a non numeric value for the Watermark Photo Width field. It has "
+"been set to the default value."
+msgstr ""
+"Er is een niet-numerieke waarde ingevoerd voor de Watermerk Foto Breedte. "
+"Het heeft nu de standaard waarde."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:230
+msgid ""
+"You entered a non numeric value for the Watermark Font Size field. It has "
+"been set to the default value."
+msgstr ""
+"Er is een niet-numerieke waarde ingevoerd voor de Watermerk Lettergrootte. "
+"Het heeft nu de standaard waarde"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:239
+msgid ""
+"You entered a non numeric value for the Watermark Opacity field. It has been "
+"set to the default value."
+msgstr ""
+"Er is een niet-numerieke waarde ingevoerd voor de Watermerk Doorzichtigheid. "
+"Het heeft nu de standaard waarde."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:244
+msgid ""
+"The Watermark Opacity value must be between and including 0 and 100. It has "
+"been set to the default value."
+msgstr ""
+"De Watermerk Doorzichtigheid waarde moet tussen 0 en 100 zijn. Het is op "
+"standaard gezet."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:307
+msgid "Gallery DB insert or update failed!"
+msgstr "Gallery DB toegevoegen of updaten is mislukt!"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:348
+msgid "Create/Edit Gallery"
+msgstr "Gallery Maken/Aanpassen"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:352
+msgid "Gallery Settings"
+msgstr "Gallery Instellingen"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:358
+msgid "Gallery Name"
+msgstr "Gallery Naam"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:360
+msgid "This is the name of your gallery"
+msgstr "Dit is de naam van uw gallery"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:364
+msgid "Gallery Thumbnail Template"
+msgstr "Gallery Thumbnail Sjabloon"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:367
+msgid "Template 1"
+msgstr "Sjabloon 1"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:368
+msgid "Template 2"
+msgstr "Sjabloon 2"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:369
+msgid "Template 3 (Masonry)"
+msgstr "Sjabloon 3 (Masonry)"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:371
+msgid "Choose the template style for displaying your gallery thumbnails"
+msgstr "Kies de sjabloon stijl voor de weergave van de gallery thumbnails"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:372
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:405
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:417
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:440
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:455
+msgid "More Info"
+msgstr "Meer informatie"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:375
+msgid ""
+"Template 1: Will display your gallery thumbnails in a grid with thumbnail "
+"size 150x150."
+msgstr ""
+"Sjabloon 1: Toont de gallery in een rooster met thumbnails van 150x150."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:376
+msgid ""
+"Template 2: Will display your gallery thumbnails using true landscape/"
+"portrait proportions."
+msgstr ""
+"Sjabloon 2: Toont de gallery met thumbnails met staand/liggend verhouding "
+"van de afbeeldingen."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:383
+msgid "Sort Order Of Gallery Images"
+msgstr "Sorteer Volgorde van de Gallery Afbeeldingen"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:386
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:121
+msgid "By ID Ascending"
+msgstr "Op ID oplopend"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:387
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:122
+msgid "By ID Descending"
+msgstr "Op ID aflopend"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:388
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:123
+msgid "By Date Ascending"
+msgstr "Op Datum oplopend"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:389
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:124
+msgid "By Date Descending"
+msgstr "Op Datum aflopend"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:391
+msgid ""
+"Choose the sort order of your gallery images when they are displayed on the "
+"front end of your site"
+msgstr ""
+"Kies de sorteer volgorde van de gallery afbeeldingen, zoals ze op de website "
+"worden getoond"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:395
+msgid "Preview Photo via Page"
+msgstr "Voorbeeld Foto via Pagina"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:397
+msgid ""
+"When enabled this setting will show previews of your photos on a separate "
+"page. When disabled your photo previews will be via a lightbox. (Activating "
+"this option is recommended)"
+msgstr ""
+"Indien geactiveerd toont deze instelling de foto's op een aparte pagina. "
+"Anders worden de foto's in een lightbox getoond. (Activeren van deze optie "
+"wordt aanbevolen)"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:402
+msgid "Watermark Text"
+msgstr "Watermerk Tekst"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:404
+msgid ""
+"The text which you enter here will appear as a watermark on all photos in "
+"this gallery when they are being previewed by your visitors."
+msgstr ""
+"De tekst die u hier invoert verschijnt als een watermerk op alle foto's in "
+"deze gallery wanneer uw bezoekers een voorbeeld bekijken."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:408
+msgid ""
+"Leave this field blank if you wish to display the original photo to your "
+"customers when they are previewing this gallery."
+msgstr ""
+"Laat dit veld leeg als u de orinele foto wilt tonen aan uw bezoekers wanneer "
+"zij een voorbeeld bekijken van deze gallery."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:414
+msgid "Watermark Text Opacity"
+msgstr "Watermerk Tekst Doorzichtigheid"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:416
+msgid ""
+"Enter a value between 0 and 100 where 0 is most transparent and 100 is least "
+"transparent."
+msgstr ""
+"Geef een waarde tussen 0 en 100, met 0 als meest doorzichtig en 100 als "
+"minst doorzichtig."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:420
+msgid ""
+"This field enables you to set the transparency of your watermark text.\n"
+"                                                        A value of 0 will "
+"make your watermark text fully transparent and a value of 100 will make it "
+"non-transparent."
+msgstr ""
+"In dit veld kunt u de doorzichtigheid van de watermerk tekst opgeven.\n"
+"                                                        Een waarde van 0 "
+"maakt uw watermark volledig doorzichtig en een waarde van 100 maakt het "
+"ondoorzichtig."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:427
+msgid "Watermark Text Placement"
+msgstr "Watermerk Tekst Plaatsing"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:430
+msgid "Centered"
+msgstr "Gecentreerd"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:431
+msgid "Repeated Grid"
+msgstr "Herhaald Rooster"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:433
+msgid "Choose the placement location of your watermark text"
+msgstr "Kies de lokatie van uw watermerk tekst"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:437
+msgid "Watermarked Max Preview Dimension (px)"
+msgstr "Maximale afmeting van het watermerk voorbeeld (pixels)"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:439
+msgid "Enter a desired max dimension size for your watermarked preview"
+msgstr "Geef de gewenste maximale afmeting van uw watermerk voorbeeld"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:443
+msgid ""
+"<p>This field enables you to set the maximum desired width or height of the "
+"watermarked version of your photos in this gallery depending on whether the "
+"photo is a portrait or landscape.</p>\n"
+"                                                        <p>For instance if "
+"your photo is a landscape style image then the value you enter here will "
+"represent the maximum desired width of the preview image.</p>\n"
+"                                                        <p>Conversely, if "
+"your photo is a portrait style image then the value you enter here will "
+"represent the maximum desired height of the preview image.</p>\n"
+"                                                        <p>The plugin will "
+"automatically scale the watermarked photo's other dimension to the "
+"appropriate value based on the value entered in this field.<p>"
+msgstr ""
+"<p>In dit veld kunt u de gewenste maximale breedte of hoogte opgeven van de "
+"gewatermerkte versie van de foto's in deze gallery afhankelijk van het "
+"staande of liggende formaat van de foto.</p>\n"
+"                                                        <p>Met een liggende "
+"foto wordt de hier opgegeven waarde ingesteld als de maximale breedte van de "
+"voorbeeld afbeelding.</p>\n"
+"                                                        <p>Met een staande "
+"foto wordt de hier opgegeven waarde ingesteld als de maximale hoogte van de "
+"voorbeeld afbeelding.</p>\n"
+"                                                        <p>De plugin schaalt "
+"de andere afmeting van de gewatermerkte foto's afhankelijk van de waarde die "
+"in dit veld wordt opgegeven.<p>"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:452
+msgid "Watermark Font Size (px)"
+msgstr "Watermerk lettergrootte (pixels)"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:454
+msgid "Set the font size of the watermark text"
+msgstr "Alles Selecteren"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:458
+msgid ""
+"This field enables you to set the font size of the watermark text for all "
+"photos in this gallery. \n"
+"                                                        If left blank the "
+"plugin will default to 35px."
+msgstr ""
+"In dit veld kunt u de lettergrootte van de watermerk tekst opgeven voor alle "
+"foto's in deze gallery.\n"
+"                                                        Als het veld leeg is "
+"stelt de plugin automatisch 35px in."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:466
+msgid "Use Pagination"
+msgstr "Gebruik Paginering"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:469
+msgid ""
+"Click this to enable pagination when displaying your gallery's photo "
+"thumbnails."
+msgstr "Klik hier voor paginering bij weergave van uw gallery foto thumbnails."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:473
+msgid "Thumbs Per Page"
+msgstr "Thumbnails per pagina"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:475
+msgid "Set the number of thumbnails to display per page"
+msgstr "Stel het aantal weer te geven thumbnails per pagina in "
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:480
+msgid "Upload Images"
+msgstr "Afbeeldingen uploaden"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:482
+msgid ""
+"To upload or select your images from the media library please click this "
+"button"
+msgstr ""
+"Klik op deze knop om afbeeldingen te uploaden of te selecteren uit uw media "
+"bibliotheek"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:491
+msgid "Gallery Images"
+msgstr "Gallery Afbeeldingen"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:518
+msgid "Sell Your Digital and Physical Photos"
+msgstr "Verkoop je Digitale en Afgedrukte Foto's"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:520
+msgid "WP Photo Seller Plugin"
+msgstr "WP Photo Seller Plugin"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:525
+msgid "Click Here"
+msgstr "Klik hier"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:526
+msgid "WP Photo Seller"
+msgstr "WP Photo Seller"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:527
+#, php-format
+msgid ""
+"If you are looking for a flexible and professional solution to sell your "
+"photos from your WordPress site then you should check out the <strong>%s</"
+"strong> plugin."
+msgstr ""
+"Als je op zoek bent naar een flexibele en professionele oplossing om je "
+"foto's te verkopen via een WordPress website, dan moet je even kijken naar "
+"de <strong>%s</strong> plugin."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:529
+msgid "Some of the features and highlights of this plugin include:"
+msgstr "Enkele kenmerken en highlights van deze plgin:"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:533
+msgid "Ability to sell both digital and physical photos."
+msgstr "Mogelijkheid tot verkopen van digitale en afgedrukte foto's."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:534
+msgid ""
+"Sell digital photos with varying size and price options. Pugin will "
+"automatically create and deliver secure download link to your customers."
+msgstr ""
+"Verkoop digitale foto's met verschillende afmeting en prijs opties. De "
+"plugin maakt en verzendt automatisch beveiligde download links."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:535
+msgid ""
+"Secure digital delivery of photos - the plugin creates and automatically "
+"sends encrypted links to your customers."
+msgstr ""
+"Beveiligde digitale overdracht van foto's - de plugin maakt en verzendt "
+"automatisch versleutelde links naar je klanten."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:536
+msgid ""
+"Flexible photo variation options - make as many versions/types of the same "
+"(physical or digital) photo and sell for different prices."
+msgstr ""
+"Flexibele foto variatie opties - maak versies/types van dezelfde (afgedrukte "
+"of digitale) foto and verkoop voor verschillende prijzen."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:537
+msgid ""
+"Inventory control of your photo stocks - set inventory levels for specified "
+"photos. Very useful when selling physical prints."
+msgstr ""
+"Inventarisatie van je foto voorraden - stel voorraadniveau in for specifieke "
+"foto's. Erg handig bij de verkoop van afgedrukte foto's."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:538
+msgid "Watermarking of photos when previewing."
+msgstr "Watermerken van foto's tijdens voorbeeldweergave."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:539
+msgid ""
+"Zoom functionality to allow your customers to examine finer details of your "
+"photos without the need to display full resolution image."
+msgstr ""
+"Zoom functionaliteit laat klanten de kleinste details van je foto's bekijken "
+"zonder de hele afbeelding te moeten tonen op hoge resolutie."
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:541
+msgid "....and loads more!"
+msgstr "....en veel meer!"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:542
+#, php-format
+msgid "%s to see more features and a demo."
+msgstr "%s voor meer kenmerken en een demo"
+
+#: simple-photo-gallery/admin/wppg-list-galleries.php:84
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:89
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:102
+msgid "Error - Please select some records using the checkboxes"
+msgstr "Fout - Selecteer a.u.b. enkele bestanden met behulp van de checkboxes"
+
+#: simple-photo-gallery/admin/wppg-list-galleries.php:132
+msgid "The selected entries were deleted successfully!"
+msgstr "De geselecteerde objecten zijn verwijderd!"
+
+#: simple-photo-gallery/admin/wppg-list-galleries.php:165
+msgid "The selected entry was deleted successfully!"
+msgstr "Het geselecteerde object is verwijderd!"
+
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:27
+msgid "Delete Permanently"
+msgstr "Voorgoed Verwijderen"
+
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:125
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:133
+#, php-format
+msgid "The deletion of attachment with image ID %s failed!"
+msgstr "Het verwijderen van aanhangsel met afbeelding ID %s is niet gelukt!"
+
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:140
+msgid ""
+"The selected images were successfully deleted from the system permanently!"
+msgstr "De geselecteerde afbeeldingen zijn voorgoed verwijderd!"
+
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:164
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:172
+#, php-format
+msgid "Removal of image ID %s from gallery failed!"
+msgstr "Verwijderen uit gallery van afb. ID %s is niet gelukt!"
+
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:179
+msgid "The selected images were removed from the gallery successfully!"
+msgstr "De geselecteerde afbeeldingen zijn uit de gallery verwijderd!"
+
+#: simple-photo-gallery/admin/wppg-photo-admin-init.php:61
+msgid "Photo Gallery"
+msgstr "Foto Gallery"
+
+#: simple-photo-gallery/admin/wppg-photo-admin-init.php:62
+msgid "Settings"
+msgstr "Instellingen"
+
+#: simple-photo-gallery/admin/wppg-photo-admin-init.php:63
+msgid "Gallery"
+msgstr "Gallery"
+
+#: simple-photo-gallery/admin/wppg-photo-admin-menu.php:43
+msgid "Settings successfully updated."
+msgstr "Instellingen zijn aangepast."
+
+#: simple-photo-gallery/admin/wppg-photo-admin-menu.php:50
+msgid "The selected record(s) deleted successfully!"
+msgstr "De geselecteerde objecten zijn verwijderd!"
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:87
+msgid "Gallery general settings were successfully saved."
+msgstr "Algemene gallery instellingen zijn bewaard."
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:98
+msgid "Getting Started"
+msgstr "Beginnen"
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:102
+msgid "Using the <strong>Simple Photo Gallery</strong> Plugin is easy."
+msgstr ""
+"Het gebruik van <strong>Simple Photo Gallery</strong> Plugin is makkelijk."
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:104
+#, php-format
+msgid "Just go to the %s and upload your photos and create your gallery."
+msgstr "Ga naar de %s en upload uw foto's en stel uw gallery samen."
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:106
+msgid ""
+"After uploading your photos and saving your gallery the plugin will "
+"automatically create the required gallery pages on the front end of your "
+"site. It really is that simple!"
+msgstr ""
+"Na het uploaden van uw foto's en het bewaren van de gallery maakt de plugin "
+"automatisch de gewenste gallery pagina's op uw website. Zo makkelijk is het "
+"echt!"
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:114
+msgid "General Gallery Settings"
+msgstr "Algemene Gallery Instellingen"
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:118
+msgid "Sort Order Of Gallery Selection"
+msgstr "Sorteer Volgorde van de gallery selectie"
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:125
+msgid "By Name Ascending"
+msgstr "Op Naam oplopend"
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:126
+msgid "By Name Descending"
+msgstr "Op Naam aflopend"
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:128
+msgid ""
+"Choose the sort order of your gallery selection images when they are "
+"displayed on the gallery page of the front end of your site"
+msgstr ""
+"Kies de sorteer volgorde van uw selectie gallery afbeeldingen, zoals ze op "
+"de gallery pagina van de website worden getoond"
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:178
+msgid "No items found."
+msgstr "Geen object gevonden."
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:281
+msgid "Bulk Actions"
+msgstr "Bulk toepassingen"
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:291
+msgid "Apply"
+msgstr "Toepassen"
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:365
+msgid "Show all dates"
+msgstr "Alle datums tonen"
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:378
+#, php-format
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:394
+msgid "List View"
+msgstr "Lijstweergave"
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:395
+msgid "Excerpt View"
+msgstr "Beknopt overzicht"
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:421
+#, php-format
+msgid "%s pending"
+msgstr "%s in de rij"
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:653
+msgid "Select All"
+msgstr "Alles Selecteren"
+
+#: simple-photo-gallery/classes/wppg-photo-gallery-class.php:674
+#: simple-photo-gallery/classes/wppg-photo-gallery-class.php:686
+#: simple-photo-gallery/classes/wppg-photo-gallery-class.php:698
+msgid "Displaying Page"
+msgstr "Pagina Weergave"
+
+#: simple-photo-gallery/classes/wppg-photo-gallery-class.php:674
+#: simple-photo-gallery/classes/wppg-photo-gallery-class.php:686
+#: simple-photo-gallery/classes/wppg-photo-gallery-class.php:698
+msgid "of"
+msgstr "van"
+
+#: simple-photo-gallery/classes/wppg-photo-general-init-tasks.php:55
+msgid "Error: No gallery found with the following ID: "
+msgstr "Fout: Geen gallery gevonden met ID:"
+
+#: simple-photo-gallery/classes/wppg-photo-general-init-tasks.php:107
+msgid ""
+"Simple Photo Gallery: Please specify a gallery ID or multiple IDs separated "
+"by commas"
+msgstr ""
+"Simple Photo Gallery: A.u.b. een gallery ID opgeven, of meerdere IDs "
+"gescheiden door komma's"
+
+#: simple-photo-gallery/classes/wppg-photo-installer.php:115
+msgid "Galleries"
+msgstr "Galleries"
+
+#: simple-photo-gallery/classes/wppg-photo-installer.php:136
+msgid "Photo Details"
+msgstr "Foto Details"
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-gallery-home.php:90
+msgid "There are currently no galleries!"
+msgstr "Er zijn momenteel geen galleries!"
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-details.php:18
+msgid ""
+"This page is for displaying the details of a selected photo. Please click on "
+"a photo from one of the galleries to see the details."
+msgstr ""
+"Deze pagina geeft de details weer van een geselecteerde foto. Klik a.u.b. op "
+"een foto van één van de Galleries om de details te zien."
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-details.php:188
+#, php-format
+msgid "Displaying photo %s of %s"
+msgstr "Foto %s van %s"
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-details.php:208
+msgid "Previous Photo"
+msgstr "Vorige Foto"
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-details.php:211
+msgid "Next Photo"
+msgstr "Volgende Foto"
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-details.php:214
+msgid "Back To Gallery Page"
+msgstr "Terug naar de Gallery Pagina"
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-gallery-template-1.php:58
+msgid "View Photo"
+msgstr "Foto Bekijken"
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-gallery-template-1.php:97
+msgid "View Image"
+msgstr "Afbeelding Bekijken"
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-gallery-template-2.php:71
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-gallery-template-2.php:122
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-gallery-template-3.php:57
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-gallery-template-3.php:108
+msgid "View"
+msgstr "Bekijk"

@@ -1,0 +1,156 @@
+/*
+============================================================================
+Global (h1..h6,lists,paragraphs,tables,links,form elements etc)
+============================================================================
+*/
+body { background:#f3f3f3; color:#5a6874; }
+
+/* Text links */
+a { color:#c78300; }
+
+/*
+============================================================================
+Structure (for every page in the theme)
+============================================================================
+*/
+#header { background:url(../images/bg_header_blue.png) no-repeat; -moz-box-shadow:0 0 5px rgba(0,0,0,0.5); -webkit-box-shadow:0 0 5px rgba(0,0,0,0.5); box-shadow:0 0 5px rgba(0,0,0,0.5); }
+#main-wrap-outer { background:url(../images/bg_main_blue.png) repeat-x; }
+#main-wrap-inner { background: url(../images/bg_main_inner_blue.png) repeat-x bottom; }
+#content { border-right:solid 1px #c5cdd5; }
+
+/*
+============================================================================
+Header (Logo etc)
+============================================================================
+*/
+#header a:hover { color:#fff; }
+#header-trans { background:url(../images/bg_header_trans.png); }
+#header h1 a { color:#e8e8e8; text-shadow: 1px 1px rgba(0,0,0,0.4); }
+
+/*
+============================================================================
+Navigation (for every navigational element in the theme)
+============================================================================
+*/
+.nav li a { color:#e8e8e8; text-shadow: 1px 1px rgba(0,0,0,0.3); }
+.nav li li a:hover { background:#161616; background: rgba(0,0,0,0.8);  }
+.nav li:hover > a { color:#f1dfbb; }
+.nav ul { background:#161616; background: rgba(0,0,0,0.7); }
+.nav .current-menu-item a { color:#fff; }
+
+/*
+============================================================================
+Content
+============================================================================
+*/
+#content img { border:solid 1px #91b4c2; }
+#content blockquote { border:solid 1px #c5cdd5; border-left:none; border-right:none; }
+.tbl { border-left:solid 1px #c6cdd5; }
+.tbl th { border-bottom:solid 1px #91b4c2; border-right:solid 1px #c6cdd5; }
+.tbl td { border-bottom:solid 1px #c6cdd5; border-right:solid 1px #c6cdd5;  }
+.tbl tr:nth-child(even) td { background: #ececec; }
+
+/*
+============================================================================
+Comments (everything related to the comments section)
+============================================================================
+*/
+.post-comments, #respond { border-top:solid 2px #C5CDD5; }
+.post-comments .depth-1 { border-top:solid 1px #C5CDD5; }
+.comment-text { border-bottom:solid 1px #C5CDD5; border-left:solid 1px #C5CDD5; }
+.post-form fieldset { margin-bottom:20px; }
+.post-form input[type=text] { width:50%; }
+.post-form textarea { width:90%; height:150px; }
+.post-form input[type=text], .post-form textarea { background: #d8dfe6; color:#333230; border:none; font-family: inherit; padding:5px; }
+.post-form textarea:hover, .post-form input[type=text]:hover, .newsletter input[type=text]:focus, .newsletter input[type=text]:active { background: #c1cad4; }
+
+/*
+============================================================================
+Footer / Credits
+============================================================================
+*/
+#footer-wrap { background: url(../images/bg_footer_blue.png) repeat-x; }
+.footer .col h4 { color:#fff; text-shadow: 1px 1px rgba(0,0,0,0.3); }
+.footer .col h4 a { font-style:normal; color:#fff; }
+.footer .col p { color:#0c3750; text-shadow: 1px 1px rgba(255,255,255,0.3); }
+.footer .col img { background: #4bace5; box-shadow:0 0 4px rgba(0,0,0,0.3); }
+.footer .col a { color:#ffba36; text-shadow: 1px 1px rgba(0,0,0,0.5); }
+#credits-wrap { background: url(../images/bg_credits.png); }
+#credits { color:#262626; text-shadow: 1px 1px rgba(255,255,255,0.3); }
+#credits a { color:#fff;  text-shadow: 1px 1px rgba(0,0,0,0.5); }
+
+/*
+============================================================================
+Widgets 
+============================================================================
+*/
+.widget img { border:solid 1px #91b4c2; }
+
+
+/* Newsletter */
+.newsletter h3 { color:#166e93; }
+.newsletter input[type=text] { background: #d8dfe6; color:#333230; }
+.newsletter input[type=text]:hover, .newsletter input[type=text]:focus { background: #c1cad4; }
+.newsletter input[type=submit] { color:#f8f8f8; background: url(../images/btn_submit_blue.png) no-repeat; text-shadow: 1px 1px rgba(0,0,0,0.4); -moz-box-shadow:0 0 4px rgba(0,0,0,0.5); -webkit-box-shadow:0 0 4px rgba(0,0,0,0.5); box-shadow:0 0 4px rgba(0,0,0,0.5); }
+.newsletter input[type=submit]:hover { background: url(../images/btn_submit_blue.png) no-repeat 0 -35px; }
+.newsletter input::-webkit-input-placeholder { color: #333230; }
+.newsletter input:-moz-placeholder { color: #333230; }
+
+/*
+============================================================================
+Homepage
+============================================================================
+*/
+/* Slider */
+.slide-badge { background: url(../images/bg_header_badge.png) no-repeat; }
+.slide-badge h2 { color:#fff; text-shadow: 2px 2px rgba(0,0,0,0.7); }
+.slide-badge p { color:#fff; text-shadow: 1px 1px rgba(0,0,0,0.7); }
+
+/* Booking box */
+#booking { background: url(../images/box_blue.png) no-repeat; }
+#booking p { color:#494130; }
+#booking label { color:#136080; text-shadow: 1px 1px rgba(255,255,255,0.3); }
+#booking input[type=text], #booking select { background: #136080; border:solid 1px #0d4056; color:#fff;  }
+#booking input[type=text] { font-family: inherit; background: #136080 url(../images/icon_calendar_white.png) no-repeat 93% 9px; }
+#booking input[type=submit] { background: url(../images/btn_availability_blue.png) no-repeat; color:#e8e8e8; text-shadow: 1px 1px #000; -moz-box-shadow:0 0 4px rgba(0,0,0,0.5); -webkit-box-shadow:0 0 4px rgba(0,0,0,0.5); box-shadow:0 0 4px rgba(0,0,0,0.5); }
+#booking input[type=submit]:hover { background: url(../images/btn_availability_blue.png) no-repeat 0 -42px ;}
+
+/* Home columns */
+.home-cols img { border:solid 1px #c8d2d6; }
+
+/* Home newsletter */
+.hn { border-bottom:solid 1px #c4cdd5;  }
+.hn h3 { background: url(../images/bg_line_blue.png) repeat-x 0 12px; }
+.hn h3 span { background: #f1f1f1; }
+
+/*
+============================================================================
+Inner pages generic styles
+============================================================================
+*/
+
+.hero-content h2 { color:#fff; text-shadow: 2px 2px rgba(0,0,0,0.7); background: url(../images/bg_header_inner.png); }
+.btn-book { background: url(../images/btn_availability_blue.png) no-repeat; color:#f8f8f8; text-shadow: 1px 1px #000; -moz-box-shadow:0 0 4px rgba(0,0,0,0.5); -webkit-box-shadow:0 0 4px rgba(0,0,0,0.5); box-shadow:0 0 4px rgba(0,0,0,0.5); }
+
+/*
+============================================================================
+Room page
+============================================================================
+*/
+#room-gallery { background: url(../images/bg_amenities_blue.png) no-repeat; }
+#room-carousel li a { background: #66bdf0; }
+#room-carousel li a:hover { background:#98d8fd; }
+#room-amenities h3 { color:#fff; text-shadow: 1px 1px rgba(0,0,0,0.4); border-bottom:solid 1px #3a76a2;  }
+#room-amenities li { color:#082c4b; background: url(../images/bg_star_blue.png) no-repeat 0 9px;  text-shadow: 1px 1px rgba(255,255,255,0.4); }
+
+/* Carousel styles */
+.jcarousel-skin-tango .jcarousel-next-horizontal { position:absolute; top:23px; right:5px; width:32px; height:32px; cursor:pointer; background:transparent url(../skins/tango/next-horizontal_blue.png) no-repeat 0 0; }
+.jcarousel-skin-tango .jcarousel-prev-horizontal { position:absolute; top:23px; left:5px; width:32px; height:32px; cursor:pointer; background:transparent url(../skins/tango/prev-horizontal_blue.png) no-repeat 0 0; }
+
+/*
+============================================================================
+Blog page
+============================================================================
+*/
+.listing { border-bottom:solid 1px #c5cdd5; }
+.comments-no a { background: #c5cdd5; color:#161616; text-shadow: 1px 1px rgba(255,255,255,0.7); -moz-border-radius:2px; -webkit-border-radius:2px; border-radius:2px; }

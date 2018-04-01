@@ -1,0 +1,473 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: simple photo gallery\n"
+"POT-Creation-Date: 2014-01-02 11:51+1000\n"
+"PO-Revision-Date: 2014-01-02 11:51+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:88
+msgid "Gallery Management Menu"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:90
+msgid "Creating or Editing a Gallery"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:94
+msgid "To create a new gallery click the \"Create New Gallery\" button below."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:95
+msgid ""
+"To edit an existing gallery please click the \"Edit\" link for the "
+"applicable gallery in the \"Existing Galleries\" table below."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:100
+msgid "Create a Gallery"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:105
+msgid "Click this button if you wish to create a new gallery and upload photos"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:111
+msgid "Existing Galleries"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:159
+msgid "The Gallery was saved successfully."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:171
+msgid ""
+"You have successfully deleted the selected gallery image(s) permanently!"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:188
+msgid "Please enter a gallery name"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:209
+msgid ""
+"You entered a non numeric value for the Watermark Photo Width field. It has "
+"been set to the default value."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:216
+msgid ""
+"You entered a non numeric value for the Watermark Font Size field. It has "
+"been set to the default value."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:225
+msgid ""
+"You entered a non numeric value for the Watermark Opacity field. It has been "
+"set to the default value."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:230
+msgid ""
+"The Watermark Opacity value must be between and including 0 and 100. It has "
+"been set to the default value."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:292
+msgid "Gallery DB insert or update failed!"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:333
+msgid "Create/Edit Gallery"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:336
+msgid "Gallery Settings"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:342
+msgid "Gallery Name"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:344
+msgid "This is the name of your gallery"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:348
+msgid "Gallery Thumbnail Template"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:351
+msgid "Template 1"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:352
+msgid "Template 2"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:354
+msgid "Choose the template style for displaying your gallery thumbnails"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:355
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:390
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:402
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:425
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:440
+msgid "More Info"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:358
+msgid ""
+"Template 1: Will display your gallery thumbnails in a grid with thumbnail "
+"size 150x150."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:359
+msgid ""
+"Template 2: Will display your gallery thumbnails using true landscape/"
+"portrait proportions."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:366
+msgid "Sort Order Of Gallery Images"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:369
+msgid "By ID Ascending"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:370
+msgid "By ID Descending"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:371
+msgid "By Date Ascending"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:372
+msgid "By Date Descending"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:374
+msgid ""
+"Choose the sort order of your gallery images when they are displayed on the "
+"front end of your site"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:378
+msgid "Preview Photo via Page"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:380
+msgid ""
+"This setting will show previews of your photos on a separate page instead of "
+"using a lightbox. The usage of this option is recommended."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:387
+msgid "Watermark Text"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:389
+msgid ""
+"The text which you enter here will appear as a watermark on all photos in "
+"this gallery when they are being previewed by your visitors."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:393
+msgid ""
+"Leave this field blank if you wish to display the original photo to your "
+"customers when they are previewing this gallery."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:399
+msgid "Watermark Text Opacity"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:401
+msgid ""
+"Enter a value between 0 and 100 where 0 is most transparent and 100 is least "
+"transparent."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:405
+msgid ""
+"This field enables you to set the transparency of your watermark text.\n"
+"                                                        A value of 0 will "
+"make your watermark text fully transparent and a value of 100 will make it "
+"non-transparent."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:412
+msgid "Watermark Text Placement"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:415
+msgid "Centered"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:416
+msgid "Repeated Grid"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:418
+msgid "Choose the placement location of your watermark text"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:422
+msgid "Watermarked Max Preview Dimension (px)"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:424
+msgid "Enter a desired max dimension size for your watermarked preview"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:428
+msgid ""
+"<p>This field enables you to set the maximum desired width or height of the "
+"watermarked version of your photos in this gallery depending on whether the "
+"photo is a portrait or landscape.</p>\n"
+"                                                        <p>For instance if "
+"your photo is a landscape style image then the value you enter here will "
+"represent the maximum desired width of the preview image.</p>\n"
+"                                                        <p>Conversely, if "
+"your photo is a portrait style image then the value you enter here will "
+"represent the maximum desired height of the preview image.</p>\n"
+"                                                        <p>The plugin will "
+"automatically scale the watermarked photo's other dimension to the "
+"appropriate value based on the value entered in this field.<p>"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:437
+msgid "Watermark Font Size (px)"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:439
+msgid "Set the font size of the watermark text"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:443
+msgid ""
+"This field enables you to set the font size of the watermark text for all "
+"photos in this gallery. \n"
+"                                                        If left blank the "
+"plugin will default to 35px."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:451
+msgid "Use Pagination"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:454
+msgid ""
+"Click this to enable pagination when displaying your gallery's photo "
+"thumbnails."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:458
+msgid "Thumbs Per Page"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:460
+msgid "Set the number of thumbnails to display per page"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:465
+msgid "Upload Images"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:467
+msgid ""
+"To upload or select your images from the media library please click this "
+"button"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-gallery-menu.php:476
+msgid "Gallery Images"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-list-galleries.php:84
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:89
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:102
+msgid "Error - Please select some records using the checkboxes"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-list-galleries.php:132
+msgid "The selected entries were deleted successfully!"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-list-galleries.php:165
+msgid "The selected entry was deleted successfully!"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:27
+msgid "Delete Permanently"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:125
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:133
+#, php-format
+msgid "The deletion of attachment with image ID %s failed!"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:140
+msgid ""
+"The selected images were successfully deleted from the system permanently!"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:164
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:172
+#, php-format
+msgid "Removal of image ID %s from gallery failed!"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-list-gallery-images.php:179
+msgid "The selected images were removed from the gallery successfully!"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-photo-admin-init.php:61
+msgid "Photo Gallery"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-photo-admin-init.php:62
+msgid "Settings"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-photo-admin-init.php:63
+msgid "Gallery"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-photo-admin-menu.php:43
+msgid "Settings successfully updated."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-photo-admin-menu.php:50
+msgid "The selected record(s) deleted successfully!"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:75
+msgid "Getting Started"
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:79
+msgid "Using the <strong>Simple Photo Gallery</strong> Plugin is easy."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:81
+#, php-format
+msgid "Just go to the %s and upload your photos and create your gallery."
+msgstr ""
+
+#: simple-photo-gallery/admin/wppg-photo-settings-menu.php:83
+msgid ""
+"After uploading your photos and saving your gallery the plugin will "
+"automatically create the required gallery pages on the front end of your "
+"site. It really is that simple!"
+msgstr ""
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:178
+msgid "No items found."
+msgstr ""
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:281
+msgid "Bulk Actions"
+msgstr ""
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:291
+msgid "Apply"
+msgstr ""
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:365
+msgid "Show all dates"
+msgstr ""
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:378
+#, php-format
+msgid "%1$s %2$d"
+msgstr ""
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:394
+msgid "List View"
+msgstr ""
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:395
+msgid "Excerpt View"
+msgstr ""
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:421
+#, php-format
+msgid "%s pending"
+msgstr ""
+
+#: simple-photo-gallery/admin/general/wppg-list-table.php:653
+msgid "Select All"
+msgstr ""
+
+#: simple-photo-gallery/classes/wppg-photo-gallery-class.php:662
+#: simple-photo-gallery/classes/wppg-photo-gallery-class.php:674
+#: simple-photo-gallery/classes/wppg-photo-gallery-class.php:686
+msgid "Displaying Page"
+msgstr ""
+
+#: simple-photo-gallery/classes/wppg-photo-gallery-class.php:662
+#: simple-photo-gallery/classes/wppg-photo-gallery-class.php:674
+#: simple-photo-gallery/classes/wppg-photo-gallery-class.php:686
+msgid "of"
+msgstr ""
+
+#: simple-photo-gallery/classes/wppg-photo-general-init-tasks.php:43
+msgid "Error: No gallery found with the following ID: "
+msgstr ""
+
+#: simple-photo-gallery/classes/wppg-photo-installer.php:115
+msgid "Galleries"
+msgstr ""
+
+#: simple-photo-gallery/classes/wppg-photo-installer.php:136
+msgid "Photo Details"
+msgstr ""
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-gallery-home.php:58
+msgid "There are currently no galleries!"
+msgstr ""
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-details.php:3
+msgid ""
+"This page is for displaying the details of a selected photo. Please click on "
+"a photo from one of the galleries to see the details."
+msgstr ""
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-details.php:172
+#, php-format
+msgid "Displaying photo %s of %s"
+msgstr ""
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-details.php:192
+msgid "Previous Photo"
+msgstr ""
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-details.php:195
+msgid "Next Photo"
+msgstr ""
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-details.php:198
+msgid "Back To Gallery Page"
+msgstr ""
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-gallery-template-1.php:50
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-gallery-template-2.php:65
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-gallery-template-2.php:116
+msgid "View Photo"
+msgstr ""
+
+#: simple-photo-gallery/classes/gallery-templates/wppg-photo-gallery-template-1.php:88
+msgid "View Image"
+msgstr ""
